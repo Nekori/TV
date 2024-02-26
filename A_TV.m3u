@@ -40,8 +40,6 @@ http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/inde
 https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
 https://epg.pw/stream/f552024dc7f521d901bfbfb6c4b2f4c8f0fe0e81615e947a846f894591f0c9ff.ctv
-#EXTINF:-1 tvg-id="CCTV戏曲" tvg-name="CCTV戏曲" tvg-logo="https://live.fanmingming.com/tv/CCTV戏曲.png" group-title="央视",CCTV-戏曲
-https://epg.pw/stream/ec6ed8646b8ee0dcd7f829c483b8e5e8664a0ace5c98604c943a588c80301e77.ctv
 #EXTINF:-1 tvg-id="CCTV娱乐" tvg-name="CCTV娱乐" tvg-logo="https://live.fanmingming.com/tv/CCTV娱乐.png" group-title="央视",CCTV-娱乐
 https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
