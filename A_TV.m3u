@@ -186,7 +186,7 @@ http://210.210.155.37/uq2663/h/h157/index2.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
-#EXTINF:-1 tvg-id="環球电视台" tvg-name="環球电视台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",環球电视台
+#EXTINF:-1 tvg-id="環球电视台" tvg-name="環球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="卫视",環球电视台
 https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视",CETV-1
 https://epg.pw/stream/4a405cd885d87ed95cd3a89ad2f96b8c6f32fcb87b0216543803b20f58361b34.ctv
