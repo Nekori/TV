@@ -8,10 +8,6 @@ https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 https://epg.pw/stream/844b6f26eacfd95cff1b2551b422c310b42daad47a00fb6a0be39f70db454a5c.ctv
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://101.75.215.122:8008/hls/4/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4欧洲"  tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际 欧洲
-https://epg.pw/stream/6d452bdc2abe669a8f4e37dc49a7f44069815315e72b447f490aa7d79096ce60.ctv
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际 美洲
-https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
@@ -42,6 +38,10 @@ https://node1.olelive.com:6443/live/CCTV16HD/hls.m3u8
 https://epg.pw/stream/f552024dc7f521d901bfbfb6c4b2f4c8f0fe0e81615e947a846f894591f0c9ff.ctv
 #EXTINF:-1 tvg-id="CCTV娱乐" tvg-name="CCTV娱乐" tvg-logo="https://live.fanmingming.com/tv/CCTV娱乐.png" group-title="央视",CCTV-娱乐
 https://epg.pw/stream/cbe9dd47979a7f9a29741d27857b6c23a33537a501de0ce5401c88ad3ddee655.ctv
+#EXTINF:-1 tvg-id="CCTV4欧洲"  tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际 欧洲
+https://epg.pw/stream/6d452bdc2abe669a8f4e37dc49a7f44069815315e72b447f490aa7d79096ce60.ctv
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际 美洲
+https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克 4K
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
@@ -350,3 +350,45 @@ http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 group-title="广播",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+
+#以下为央视直播网站测试源
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="测试",CCTV-1 综合
+https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="测试",CCTV-2 财经
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv2_1_td.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="测试",CCTV-3 综艺
+https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv3_1_480P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="测试",CCTV-4 中文国际
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv4_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="测试",CCTV-5 体育
+https://ldcctvwbcdali.v.myalicdn.com/ldcctvwbcd/cdrmldcctv5_1td.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="测试",CCTV-5+ 体育赛事
+https://ldcctvwbcdbd.a.bdydns.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="测试",CCTV-6 电影
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv6_1/index.m3u8?BR=hd
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="测试",CCTV-7 国防军事
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="测试",CCTV-8 电视剧
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv8_1/index.m3u8?BR=hd
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="测试",CCTV-9 纪录
+https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv9_1_720P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="测试",CCTV-10 科教
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv10_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="测试",CCTV-11 戏曲
+https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv11_1td.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="测试",CCTV-12 社会与法
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv12_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="测试",CCTV-13 新闻
+https://ldncctvwbcdcnc.v.wscdns.com/ldncctvwbcd/cdrmldcctv13_1_720P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="测试",CCTV-14 少儿
+https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv14_1_td.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="测试",CCTV-15 音乐
+https://ldocctvwbcdbd.a.bdydns.com/ldocctvwbcd/cdrmldcctv15_1/index.m3u8?BR=td
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="测试",CCTV-16 奥林匹克
+https://ldcctvwbcdali.v.myalicdn.com/ldcctvwbcd/cdrmldcctv16_1td.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="测试",CCTV-17 农业农村
+https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv17_1_720P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-id="CCTV4欧洲"  tvg-name="CCTV4欧洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4欧洲.png" group-title="测试",CCTV-4 中文国际 欧洲
+https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctveurope_1_720P/playlist.m3u8?wsApp=HLS
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="测试",CCTV-4 中文国际 美洲
+https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctvamerica_1td.m3u8
