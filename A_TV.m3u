@@ -337,18 +337,17 @@ https://node1.olelive.com:6443/live/WUXINGTYHD/hls%2Em3u8
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="地方频道",海南公共
 
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南经济.png" group-title="地方频道",海南经济
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="4K",苏州4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 
 #网络电视台
 #EXTINF:-1 tvg-id="BreadTV.cn" group-title="网络电视台",Bread TV面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1  tvg-id="MTV" tvg-name="MTV" tvg-logo="https://live.fanmingming.com/tv/MTV.png" group-title="网络电视台",音乐电视网
 
-#EXTINF:-1 group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-name="LoveNrture" group-title="4K",Love Nrture 4K「自然」
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
 #国际电视台
+#EXTINF:-1 tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNrture.png" group-title="国际",Love Nrture 4K「自然」
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
