@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
 
+#央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" tvg-url="https://epg.pw/api/epg.xml?channel_id=13842" group-title="央视",CCTV-1 综合
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -100,6 +101,7 @@ https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
 https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
 
+#卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.fanmingming.com/tv/湖南卫视.png" group-title="卫视",湖南卫视
@@ -240,6 +242,8 @@ http://222.89.56.108:9901/tsfile/live/1015_1.m3u8
 
 #EXTINF:-1 tvg-id="置业" tvg-name="置业" tvg-logo="https://live.fanmingming.com/tv/置业频道.png" group-title="卫视",置业频道
 
+
+#地方频道
 #EXTINF:-1 tvg-id="上视新闻" tvg-name="上视新闻" tvg-logo="https://live.fanmingming.com/tv/上视新闻.png" group-title="地方频道",上海新闻
 
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="地方频道",上海都市
@@ -334,6 +338,7 @@ https://node1.olelive.com:6443/live/WUXINGTYHD/hls%2Em3u8
 
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南经济.png" group-title="地方频道",海南经济
 
+#网络电视台
 #EXTINF:-1 tvg-id="BreadTV.cn" group-title="网络电视台",Bread TV面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1  tvg-id="MTV" tvg-name="MTV" tvg-logo="https://live.fanmingming.com/tv/MTV.png" group-title="网络电视台",音乐电视网
@@ -343,15 +348,18 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" group-title="4K",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
+#国际电视台
 #EXTINF:-1 group-title="国际",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
+#广播电台
 #EXTINF:-1 group-title="广播",动感音乐台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 group-title="广播",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
-#以下为央视直播网站测试源
+#测试源
+#央视网直播源
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="测试",CCTV-1 综合
 https://ldncctvwbcdtxy.liveplay.myqcloud.com/ldncctvwbcd/cdrmldcctv1_1_td.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="测试",CCTV-2 财经
@@ -392,3 +400,17 @@ https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctv17_1_720P/playlist.m3u
 https://ldocctvwbcdcnc.v.wscdns.com/ldocctvwbcd/cdrmldcctveurope_1_720P/playlist.m3u8?wsApp=HLS
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://live.fanmingming.com/tv/CCTV4美洲.png" group-title="测试",CCTV-4 中文国际 美洲
 https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctvamerica_1td.m3u8
+
+#央视频直播源
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="测试",CCTV-4K 超高清
+https://hlslive-tx-cdn.ysp.cctv.cn/E0CF3A038BA31628CB27EE71C5E4064F5C6A72F03FEEBC1149BAD9F66EF30EB5F765234FEA4B68DF40C5CBC2E4529A9EE41B95511EA983732858CEBB6D32CB4C0928F245813857625B31657B435BD0139A9EEE1446FC39B9DE43B963A019F0A91F3734F68FDBC6C92A79CBC0990F7F0A/2022575202.m3u8?from=player&svrtime=1709122970&pid=600002264&cdn=5510&revoi=18FC5E51B8FAA13A2527C89A9EFE19ACB85431FA8C848EF978E2E4A61A4EE279D4ED830F85F01211829021C911E63973EAC14DD890A741E8C5FAE1824EE4D99AB3695352DE37E4C85515A39E866DC43C18965510841EA6F53FE8820EE636FA8B759A29137405F5D2A7A21B0D139BD928DC5CA79D8537094D250A3039245CE6A9420E0ED3760B9C2C97C2FA2A6FDC917ADE9CB8F25ADBA35C5EC7471B358E29CDBDDA7103DE078346B712D1AA2A19872F&app_id=519748109&guid=lt4de2sl_g3k1bg155w&ysign=74a75c53119fb30174795eacf283f2c8&ytime=1709122970&ytype=1
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="测试",CCTV-4 中文国际
+https://hlslive-tx-cdn.ysp.cctv.cn/C0E4A668CF15429F82EB0894A8444BD6B3E49A42C6C15907BB5C1D9D3BA7CAC8BD9DDFC13B6B2F0942D36974AA28CEAC4845210AA8E6671044790DE67A3A4EA9F40D6CCB47AC8454A6E728C4792F19C1D2F49A1CE7B38C02996D20B9023AD5FAE8BA14B8D8B230006BFB0E54220478DD/2022576601.m3u8?from=player&svrtime=1709124285&pid=600001814&cdn=5510&revoi=06F22094E623AC53472465453847B1848655DD8EDD3A245E30745FE73CF84C4F55FB7524C122B06DC47781B2A898360DC4CF1046E5B98AC78DB7E587586EC799D43E93CAB09ABD97FB60B7142BB23C22EC5B02A018AE4A255E40698219AF4BEC844354A7FBCAD82CA2094DC5AE642B7E8F13CF6942969DB9D8ABEB4916FD9CBEE07442C57FDF13B9EB12AFD7B74927273E9BE5F63593231609AF493AAEBE0641277A3A6BA410B2923E8447D59560DAFE&app_id=519748109&guid=lt4de2sl_g3k1bg155w&ysign=2d837134eef64d43a4ce6c746268f477&ytime=1709124285&ytype=1
+
+#央视网直播
+#EXTINF:-1 group-title="央视网直播",慢直播精选
+https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
+#EXTINF:-1 group-title="央视网直播",西藏林芝岷山错高民宿
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8?contentid=2820180516001
+
+#失效源记录
