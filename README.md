@@ -24,6 +24,9 @@ LoveNrture、俄罗斯中文
 
 
 ### \[更新]
+2024.02.29
+
+    测试组央视频源：增加CCTV-1、CCTV-2、CCTV-7、CCTV-9、CCTV-10、CCTV-12，更新CCTV-4、CCTV-4K，荔枝网资源：增加广东卫视。
 2024.02.28.1
 
     增加苏州4K、Love Nature频道图标；
