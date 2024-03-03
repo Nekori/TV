@@ -12,7 +12,7 @@ http://119.54.14.145:9999/hls/4/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://119.54.14.145:9999/hls/5/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
+http://119.126.159.36:4000/udp/239.77.0.87:5146
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 http://119.54.14.145:9999/hls/6/index.m3u8
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视",CCTV-7 国防军事
@@ -89,22 +89,14 @@ http://119.54.14.145:9999/hls/92/index.m3u8
 #http://pi.0472.org/tv/cbn.php?id=chcjtyyHD
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视",CHC高清电影
 http://119.54.14.145:9999/hls/91/index.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus1.cn" group-title="央视",CCTV+ 1
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn" group-title="央视",CCTV+ 2
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
-https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视",CGTN记录
-https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视",CGTN俄语
-https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视",CGTN法语
-https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视",CGTN西语
-https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视",CGTN阿语
-https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
+#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视",CETV-1 教育综合
+http://119.54.14.145:9999/hls/70/index.m3u8
+#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="央视",CETV-2
+http://119.54.14.145:9999/hls/71/index.m3u8
+#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="央视",CETV-3
+
+#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="央视",CETV-4 空中课堂
+http://119.54.14.145:9999/hls/72/index.m3u8
 
 #卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视
@@ -114,11 +106,11 @@ http://119.54.14.145:9999/hls/34/index.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视",东方卫视
 http://119.54.14.145:9999/hls/31/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://live.fanmingming.com/tv/四川卫视.png" group-title="卫视",四川卫视
-https://epg.pw/stream/3c264c25b1f8debffea48cd474ef8b830ced737528778624f006949a84930657.ctv
+http://119.54.14.145:9999/hls/57/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="卫视",天津卫视
-https://epg.pw/stream/344ebea3be1190a8d1d792350cc6b3b9c136cee74ecc54b26751265784abc97f.ctv
+http://119.54.14.145:9999/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/安徽卫视.png" group-title="卫视",安徽卫视
-https://epg.pw/stream/3fdaf3a98c295cd079cac64bfbe2a0d85c46a1952da530d3b17c9133ee8af610.ctv
+http://119.54.14.145:9999/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://live.fanmingming.com/tv/山东卫视.png" group-title="卫视",山东卫视
 https://epg.pw/stream/4a343c7c4de4157d46c357cae28382364d74d1884942cf09bd212bfce4beeb7b.ctv
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.fanmingming.com/tv/广东卫视.png" group-title="卫视",广东卫视
@@ -193,14 +185,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153402
 #EXTINF:-1 tvg-id="環球电视台" tvg-name="環球电视台" tvg-logo="https://live.fanmingming.com/tv/环球电视台.png" group-title="卫视",環球电视台
 https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
-#EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="卫视",CETV-1
-http://119.54.14.145:9999/hls/70/index.m3u8
-#EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://live.fanmingming.com/tv/CETV2.png" group-title="卫视",CETV-2
-http://119.54.14.145:9999/hls/71/index.m3u8
-#EXTINF:-1 tvg-id="中国教育3台" tvg-name="中国教育3台" tvg-logo="https://live.fanmingming.com/tv/CETV3.png" group-title="卫视",CETV-3
-
-#EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.com/tv/CETV4.png" group-title="卫视",CETV-4
-http://119.54.14.145:9999/hls/72/index.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://live.fanmingming.com/tv/金色学堂.png" group-title="卫视",金色学堂
 http://119.54.14.145:9999/hls/95/index.m3u8
 #EXTINF:-1 tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="卫视",纪实人文
@@ -360,8 +344,22 @@ http://119.54.14.145:9999/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="地方频道",海南公共
 
 #EXTINF:-1 tvg-id="海南自贸" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南经济.png" group-title="地方频道",海南经济
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="4K",苏州4K
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="地方频道",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+
+#直播
+#EXTINF:-1 group-title="直播",B站 怀旧动画片放映厅
+https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
+#EXTINF:-1 group-title="直播",B站 千松客 难忘今宵系列
+https://cn-nmghhht-cu-01-07.bilivideo.com/live-bvc/593097/live_38963761_2880826_1500/index.m3u8
+#EXTINF:-1 group-title="直播",B站 哈啤分社 相声直播
+https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
+#EXTINF:-1 group-title="直播",B站 刘宝瑞相声直播
+https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
+#EXTINF:-1 group-title="直播",央视网 慢直播精选
+https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
+#EXTINF:-1 group-title="直播",央视网 西藏林芝岷山错高民宿
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 
 #网络电视台
 #EXTINF:-1 tvg-id="BreadTV.cn" group-title="网络电视台",Bread TV面包台
@@ -369,6 +367,22 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1  tvg-id="MTV" tvg-name="MTV" tvg-logo="https://live.fanmingming.com/tv/MTV.png" group-title="网络电视台",音乐电视网
 
 #国际电视台
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="国际",CGTN英语
+https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="国际",CGTN记录
+https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="国际",CGTN俄语
+https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="国际",CGTN法语
+https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="国际",CGTN西语
+https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="国际",CGTN阿语
+https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus1.cn" group-title="国际",CCTV+ 1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" group-title="国际",CCTV+ 2
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNrture.png" group-title="国际",Love Nrture 4K「自然」
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",俄罗斯中文
@@ -380,23 +394,12 @@ http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 #EXTINF:-1 group-title="广播",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
-#直播
-#EXTINF:-1 group-title="直播",央视网 慢直播精选
-https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
-#EXTINF:-1 group-title="直播",央视网 西藏林芝岷山错高民宿
-https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1 group-title="直播",B站 怀旧动画片放映厅
-https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
-#EXTINF:-1 group-title="直播",B站 千松客 难忘今宵系列
-https://cn-nmghhht-cu-01-07.bilivideo.com/live-bvc/593097/live_38963761_2880826_1500/index.m3u8
-#EXTINF:-1 group-title="直播",B站 哈啤分社 相声直播
-https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
-#EXTINF:-1 group-title="直播",B站 刘宝瑞相声直播
-https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
-
 #测试源
 
 #酒店源
 #吉林省四平市酒店联通 119.54.14.145:9999
 #黑龙江省双鸭山市组播 黑龙联通 113.5.218.96:4022 对应关系有误
 #河北三网通信 121.18.43.254:10000
+#河南联通 61.52.156.26:808
+#辽宁大连 119.112.126.155:777
+#广东佛山组播 119.126.159.36:4000
