@@ -50,7 +50,7 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 https://epg.pw/stream/7cad20992fff3df33b7a4ac780e32b3c45e1c886352dbea8a45623dc1bb7987a.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 
-#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="卫视",中国天气
+#EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://live.fanmingming.com/tv/中国天气.png" group-title="央视",中国天气
 http://113.5.218.96:4022/udp/229.58.190.95:5000
 #EXTINF:-1 tvg-id="中国交通" tvg-name="中国交通" tvg-logo="https://live.fanmingming.com/tv/中国交通.png" group-title="央视",中国交通
 http://119.54.14.145:9999/hls/69/index.m3u8
@@ -237,11 +237,11 @@ http://119.54.14.145:9999/hls/99/index.m3u8
 
 
 #地方频道
-#EXTINF:-1 tvg-id="吉林都市" tvg-name="吉林都市" group-title="地方频道",吉林都市
+#EXTINF:-1 tvg-id="吉视都市" tvg-name="吉视都市" group-title="地方频道",吉林都市
 http://119.54.14.145:9999/hls/19/index.m3u8
-#EXTINF:-1 tvg-id="吉林影视" tvg-name="吉林影视" group-title="地方频道",吉林影视
+#EXTINF:-1 tvg-id="吉视影视" tvg-name="吉视影视" group-title="地方频道",吉林影视
 http://119.54.14.145:9999/hls/21/index.m3u8
-#EXTINF:-1 tvg-id="吉林综艺文化" tvg-name="吉林综艺文化" group-title="地方频道",吉林综艺·文化
+#EXTINF:-1 tvg-id="吉视综艺文化" tvg-name="吉视综艺文化" group-title="地方频道",吉林综艺·文化
 http://119.54.14.145:9999/hls/24/index.m3u8
 #EXTINF:-1 tvg-id="东北戏曲" tvg-name="东北戏曲" group-title="地方频道",东北戏曲
 http://119.54.14.145:9999/hls/25/index.m3u8
