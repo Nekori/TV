@@ -233,6 +233,8 @@ http://119.54.14.103:9999/hls/99/index.m3u8
 
 #EXTINF:-1 tvg-id="置业" tvg-name="置业" tvg-logo="https://live.fanmingming.com/tv/置业频道.png" group-title="卫视",置业频道
 
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="卫视",星空卫视
+http://yuju666888.x3322.net:808/hls/110/index.m3u8
 
 #地方频道
 #EXTINF:-1 tvg-id="吉视都市" tvg-name="吉视都市" group-title="地方频道",吉林都市
@@ -260,7 +262,7 @@ http://119.54.14.103:9999/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="上海教育台" tvg-name="上海教育台" tvg-logo="https://live.fanmingming.com/tv/上海教育.png" group-title="地方频道",上海教育
 
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="地方频道",五星体育
-https://node1.olelive.com:6443/live/WUXINGTYHD/hls%2Em3u8
+https://node1.olelive.com:6443/live/WUXINGTYD/hls.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://live.fanmingming.com/tv/东方影视.png" group-title="地方频道",东方影视
 
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://live.fanmingming.com/tv/东方财经.png" group-title="地方频道",东方财经
@@ -348,14 +350,14 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #直播
 #EXTINF:-1 group-title="直播",B站 怀旧动画片放映厅
 https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
-#EXTINF:-1 group-title="直播",B站 千松客 难忘今宵系列
-https://cn-nmghhht-cu-01-07.bilivideo.com/live-bvc/593097/live_38963761_2880826_1500/index.m3u8
 #EXTINF:-1 group-title="直播",B站 哈啤分社 相声直播
 https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
 #EXTINF:-1 group-title="直播",B站 刘宝瑞相声直播
 https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
 #EXTINF:-1 group-title="直播",央视网 慢直播精选
 https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
+#EXTINF:-1 group-title="直播",B站 千松客 难忘今宵系列
+https://cn-nmghhht-cu-01-07.bilivideo.com/live-bvc/593097/live_38963761_2880826_1500/index.m3u8
 #EXTINF:-1 group-title="直播",央视网 西藏林芝岷山错高民宿
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 
@@ -398,7 +400,7 @@ http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
 #酒店源
-#吉林省四平市酒店联通 119.54.14.145:9999 已失效
+#吉林省四平市酒店联通 119.54.14.145:9999
 #黑龙江省双鸭山市组播 黑龙联通 113.5.218.96:4022 对应关系有误
 #河北三网通信 121.18.43.254:10000
 #河南联通 61.52.156.26:808
