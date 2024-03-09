@@ -362,7 +362,7 @@ https://cn-nmghhht-cu-01-07.bilivideo.com/live-bvc/593097/live_38963761_2880826_
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
 
 #电视剧
-#EXTINF:-1 group-title="新白娘子传奇",第1集
+#EXTINF:-1  tvg-logo="https://img9.doubanio.com/view/photo/l/public/p2225032274.webp" group-title="新白娘子传奇",第1集
 https://vip.lz-cdn6.com/20220823/23777_0fdfb16f/1000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="新白娘子传奇",第2集
 https://vip.lz-cdn6.com/20220823/23778_e783f5e8/1000k/hls/mixed.m3u8
@@ -499,6 +499,7 @@ http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 
 #测试源
+
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="备用",兵团卫视
 #http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
