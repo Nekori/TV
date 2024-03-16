@@ -223,6 +223,7 @@ B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bv
 B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
 
 斗鱼-漫威影片,http://epg.112114.xyz/douyu/6140589
+斗鱼-经典小品相声,http://epg.112114.xyz/douyu/9273031
 
 央视网-慢直播精选,https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
 央视网-西藏日喀则珠穆朗玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
