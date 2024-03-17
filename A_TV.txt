@@ -34,7 +34,7 @@ CCTV-文化精品,http://113.9.151.215:55055/udp/229.58.190.189:5000
 CCTV-央视高尔夫·网球,
 CCTV-央视台球,http://113.9.151.215:55055/udp/229.58.190.188:5000
 CCTV-中视购物,http://113.9.151.215:55055/udp/229.58.190.13:5000
-中国天气,http://113.5.218.96:4022/udp/229.58.190.95:5000
+中国天气,http://113.9.151.215:55055/udp/229.58.190.95:5000
 中国交通,
 环球奇观,
 CHC动作电影,
@@ -47,6 +47,7 @@ CETV-早期教育,http://113.9.151.215:55055/udp/229.58.190.174:5000
 中央新影-老故事,http://113.9.151.215:55055/udp/229.58.190.194:5000
 中央新影-中学生,http://113.9.151.215:55055/udp/229.58.190.99:5000
 
+//备用线路
 CCTV-1,http://113.9.151.215:55055/udp/229.58.190.151:5000
 CETV-1,http://113.9.151.215:55055/udp/229.58.190.26:5000
 CETV-4,http://113.9.151.215:55055/udp/229.58.190.83:5000
@@ -120,24 +121,31 @@ CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 吉林卫视,http://113.9.151.215:55055/udp/229.58.190.214:5000
 吉林卫视,http://113.9.151.215:55055/udp/229.58.190.140:5000
 云南卫视,http://113.9.151.215:55055/udp/229.58.190.176:5000
-三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 青海卫视,http://113.9.151.215:55055/udp/229.58.190.149:5000
 新疆卫视,http://113.9.151.215:55055/udp/229.58.190.179:5000
 西藏卫视,http://113.9.151.215:55055/udp/229.58.190.177:5000
 西藏卫视,http://222.189.51.62:8888/newlive/live/hls/37/live.m3u8
 兵团卫视,http://113.9.151.215:55055/udp/229.58.190.178:5000
-兵团卫视,#http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 延边卫视,http://113.9.151.215:55055/udp/229.58.190.108:5000
 大湾区卫视,http://113.9.151.215:55055/udp/229.58.190.115:5000
 大湾区卫视,http://183.238.248.83:9000/udp/239.21.0.84:3676
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
-康巴卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-星空卫视,http://yuju666888.x3322.net:808/hls/110/index.m3u8
+康巴卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 山东教育卫视,http://113.9.151.215:55055/udp/229.58.190.170:5000
+三沙卫视,
+星空卫视,
+凤凰卫视中文台,
+凤凰卫视资讯台,
+凤凰卫视香港台,
 
+//备用线路
+兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 
 地方频道,#genre#
+黑莓电影,http://39.134.65.162/PLTV/88888888/224/3221225681/index.m3u8
+黑莓动画,http://39.134.65.162/PLTV/88888888/224/3221225529/index.m3u8
+
 卡酷少儿,http://113.9.151.215:55055/udp/229.58.190.186:5000
 金鹰卡通,http://113.9.151.215:55055/udp/229.58.190.181:5000
 优漫卡通,http://113.9.151.215:55055/udp/229.58.190.165:5000
@@ -149,7 +157,7 @@ CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 吉林四平-新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 黑龙江影视,http://113.9.151.215:55055/udp/229.58.190.14:5000
-黑龙江新闻,http://113.9.151.215:55055/udp/229.58.190.16:5000
+黑龙江新闻法制,http://113.9.151.215:55055/udp/229.58.190.16:5000
 黑龙江文体,http://113.9.151.215:55055/udp/229.58.190.30:5000
 黑龙江少儿,http://113.9.151.215:55055/udp/229.58.190.39:5000
 黑龙江农业·科教,http://113.9.151.215:55055/udp/229.58.190.7:5000
@@ -175,18 +183,14 @@ CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 上海-生活时尚,http://113.9.151.215:55055/udp/229.58.190.93:5000
 上海-法治天地,http://113.9.151.215:55055/udp/229.58.190.92:5000
 上海-动漫秀场,http://113.9.151.215:55055/udp/229.58.190.97:5000
-上海-CITV-都市剧场,http://113.9.151.215:55055/udp/229.58.190.70:5000
+上海-city都市剧场,http://113.9.151.215:55055/udp/229.58.190.70:5000
 上海-东方财经,http://113.9.151.215:55055/udp/229.58.190.198:5000
 延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
-香港-凤凰卫视中文台,http://210.210.155.37/uq2663/h/h157/index2.m3u8
-香港-凤凰卫视资讯台,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/1.m3u8
-香港-凤凰卫视香港台,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&amp;extension=ts&amp;stream=153402
 香港-環球电视台,https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 上海-金色学堂,http://113.9.151.215:55055/udp/229.58.190.88:5000
 上海-乐游频道,http://113.9.151.215:55055/udp/229.58.190.106:5000
 上海-魅力足球,http://113.9.151.215:55055/udp/229.58.190.76:5000
 上海-欢笑剧场4K,http://113.9.151.215:55055/udp/229.58.190.87:5000
-内蒙古-黑莓电影,http://113.9.151.215:88/hls/119/index.m3u8
 湖南-茶友频道,http://113.9.151.215:55055/udp/229.58.190.111:5000
 湖南-快乐垂钓,http://113.9.151.215:55055/udp/229.58.190.113:5000
 江苏-财富天下,http://113.9.151.215:55055/udp/229.58.190.109:5000
@@ -195,11 +199,12 @@ CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 上海-教育,http://180.167.104.105:9901/tsfile/live/1012_1.m3u8
 黑龙江文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
-黑龙江新闻,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
+黑龙江新闻法制,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江农业·科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 黑龙江少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
 
+//备用线路
 金鹰卡通,http://113.9.151.215:55055/udp/229.58.190.98:5000
 优漫卡通,http://113.5.218.96:4022/udp/229.58.190.165:5000
 游戏风云,http://113.9.151.215:55055/udp/229.58.190.114:5000
@@ -208,7 +213,7 @@ CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 上海-生活时尚,http://113.9.151.215:55055/udp/229.58.190.102:5000
 上海-法治天地,http://113.9.151.215:55055/udp/229.58.190.110:5000
 上海-动漫秀场,http://113.9.151.215:55055/udp/229.58.190.78:5000
-上海-CITV-都市剧场,http://113.9.151.215:55055/udp/229.58.190.85:5000
+上海-city都市剧场,http://113.9.151.215:55055/udp/229.58.190.85:5000
 上海-东方财经,http://113.9.151.215:55055/udp/229.58.190.105:5000
 上海-金色学堂,http://113.9.151.215:55055/udp/229.58.190.77:5000
 上海-乐游频道,http://113.9.151.215:55055/udp/229.58.190.86:5000
@@ -229,13 +234,11 @@ NewTV欢乐剧场,http://39.134.65.162/PLTV/88888888/224/3221225682/index.m3u8
 NewTV家庭剧场,http://39.134.65.162/PLTV/88888888/224/3221225538/index.m3u8
 NewTV金牌综艺,http://39.134.65.162/PLTV/88888888/224/3221225525/index.m3u8
 NewTV惊悚悬疑,http://39.134.65.162/PLTV/88888888/224/3221225553/index.m3u8
-NewTV精品大剧,http://39.134.65.162/PLTV/88888888/224/3221225536/index.m3u8
 NewTV精品纪录,http://39.134.65.162/PLTV/88888888/224/3221225545/index.m3u8
 NewTV精品体育,http://39.134.65.162/PLTV/88888888/224/3221225526/index.m3u8
 NewTV军事评论,http://39.134.65.162/PLTV/88888888/224/3221225535/index.m3u8
 NewTV农业致富,http://39.134.65.162/PLTV/88888888/224/3221225552/index.m3u8
 NewTV武博世界,http://39.134.65.162/PLTV/88888888/224/3221225547/index.m3u8
-NewTV炫舞未来,http://39.134.65.162/PLTV/88888888/224/3221225646/index.m3u8
 NewTV怡伴健康,http://39.134.65.162/PLTV/88888888/224/3221225571/index.m3u8
 NewTV中国功夫,http://39.134.65.162/PLTV/88888888/224/3221225604/index.m3u8
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -342,18 +345,18 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 
+NHK日本广播协会,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
+KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
+CAN亚洲新闻台,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
+CNB亚太财经,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
+
+//备用线路
 CGTN-阿语,http://113.9.151.215:55055/udp/229.58.190.19:5000
 CGTN-西语,http://113.9.151.215:55055/udp/229.58.190.18:5000
 CGTN-记录,http://113.9.151.215:55055/udp/229.58.190.23:5000
 CGTN-法语,http://113.9.151.215:55055/udp/229.58.190.8:5000
 CGTN-俄语,http://113.9.151.215:55055/udp/229.58.190.20:5000
 CGTN-英语,http://113.9.151.215:55055/udp/229.58.190.138:5000
-
-NHK日本广播协会,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
-KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
-CAN亚洲新闻台,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
-CNB亚太财经,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
-
 
 广播电台,#genre#
 动感音乐台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
@@ -413,3 +416,24 @@ CGTN-英语,http://180.167.104.105:9901/tsfile/live/1036_1.m3u8
 CGTN-记录,http://180.167.104.105:9901/tsfile/live/1033_1.m3u8
 CGTN-俄语,http://180.167.104.105:9901/tsfile/live/1034_1.m3u8
 CGTN-法语,http://180.167.104.105:9901/tsfile/live/1035_1.m3u8
+
+newtv爱情喜剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
+newtv超级电视剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+newtv超级电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+newtv超级体育,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+newtv超级综艺,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+newtv潮妈辣婆,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
+newtv动作电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+newtv古装剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+newtv黑莓电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+newtv黑莓动画,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+newtv家庭剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+newtv金牌综艺,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+newtv惊悚悬疑,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+newtv精品大剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+newtv精品纪录,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+newtv军旅剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
+newtv军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+newtv农业致富,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+newtv炫舞未来,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
+newtv中国功夫,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
