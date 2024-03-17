@@ -426,19 +426,18 @@ B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/liv
 
 电影,#genre#
 扬名立万，类型：喜剧 地区：大陆 主演：尹正 邓家佳 喻恩泰 杨皓宇 陈明昊 秦霄贤 张本煜 柯达 邓恩熙 余皑磊 白客 赵文瑄 小爱 周奇 导演：刘循子墨 年份：2021,https://vip.lz-cdn1.com/20220609/8294_ad6fcfdc/index.m3u8
-了不起的夜晚，主演：范丞丞 蒋龙 蒋易 王子璇 梁龙 孔连顺 蒋诗萌 甘昀宸 许馨文 梦涵 齐羽嘉 导演：马凯 类型：喜剧 惊悚 地区：大陆 年份：2023,https://hot.nfm3u8.com/20230620/kZl8QHZL/index.m3u8
 乌龙院2022，主演：夏志远 赵文浩 余俪 导演：胡星 类型：喜剧 地区：大陆 年份：2022,https://vip.lz-cdn3.com/20220928/14248_8ada3b6a/index.m3u8
 隐形侠2022，主演：李晨浩 魏笑 巩汉林 导演：胡戈 类型：喜剧 地区：大陆 年份：2022,https://vip.lz-cdn3.com/20220803/10651_e58edfc9/index.m3u8
+
 
 //已看完
 西游伏妖篇国语，导演：徐克 类型：喜剧 地区：大陆 年份：2017,https://vip.lz-cdn8.com/20220911/27002_4b48c8fb/index.m3u8
 美人鱼国语，导演：周星驰 类型：喜剧 地区：大陆 年份：2016,https://vip.lz-cdn.com/20220828/30513_3bcb1616/index.m3u8
-
+了不起的夜晚，主演：范丞丞 蒋龙 蒋易 王子璇 梁龙 孔连顺 蒋诗萌 甘昀宸 许馨文 梦涵 齐羽嘉 导演：马凯 类型：喜剧 惊悚 地区：大陆 年份：2023,https://hot.nfm3u8.com/20230620/kZl8QHZL/index.m3u8
 
 国际电视,#genre#
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-
 NHK日本广播协会,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
 KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8
 CAN亚洲新闻台,http://180.167.104.105:9901/tsfile/live/1030_1.m3u8
@@ -449,8 +448,6 @@ CNB亚太财经,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
 动感音乐台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
 格莱美音乐台,http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
 潮流音乐,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-古典音乐,http://play.redefine.ltd/Stream2/FM1058-2.m3u8
-电音电台,http://play.redefine.ltd/Stream3/FM1058-3.m3u8
 民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
 舞迷心窍,http://play-radio-stream3.hndt.com/now/WBhgSD3A/playlist.m3u8
 警广之声,http://play-radio-stream3.hndt.com/now/prIgXGFo/playlist.m3u8
