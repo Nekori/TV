@@ -282,9 +282,9 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 贵州-天元围棋,http://113.9.151.215:55055/udp/229.58.190.11:5000
 
 //备用线路
-金鹰卡通,http://113.9.151.215:55055/udp/229.58.190.98:5000
-优漫卡通,http://113.5.218.96:4022/udp/229.58.190.165:5000
-游戏风云,http://113.9.151.215:55055/udp/229.58.190.114:5000
+湖南-金鹰卡通,http://113.9.151.215:55055/udp/229.58.190.98:5000
+江苏-优漫卡通,http://113.5.218.96:4022/udp/229.58.190.165:5000
+上海-游戏风云,http://113.9.151.215:55055/udp/229.58.190.114:5000
 齐齐哈尔-1 新闻综合,http://113.9.151.215:55055/udp/229.58.190.193:5000
 齐齐哈尔-2 经济·法制,http://113.9.151.215:55055/udp/229.58.190.4:5000
 上海-生活时尚,http://113.9.151.215:55055/udp/229.58.190.102:5000
@@ -311,6 +311,7 @@ NewTV欢乐剧场,http://39.134.65.162/PLTV/88888888/224/3221225682/index.m3u8
 NewTV家庭剧场,http://39.134.65.162/PLTV/88888888/224/3221225538/index.m3u8
 NewTV金牌综艺,http://39.134.65.162/PLTV/88888888/224/3221225525/index.m3u8
 NewTV惊悚悬疑,http://39.134.65.162/PLTV/88888888/224/3221225553/index.m3u8
+NewTV精品大剧,http://39.134.65.162/PLTV/88888888/224/3221225536/index.m3u8
 NewTV精品纪录,http://39.134.65.162/PLTV/88888888/224/3221225545/index.m3u8
 NewTV精品体育,http://39.134.65.162/PLTV/88888888/224/3221225526/index.m3u8
 NewTV军事评论,http://39.134.65.162/PLTV/88888888/224/3221225535/index.m3u8
@@ -318,6 +319,7 @@ NewTV农业致富,http://39.134.65.162/PLTV/88888888/224/3221225552/index.m3u8
 NewTV武博世界,http://39.134.65.162/PLTV/88888888/224/3221225547/index.m3u8
 NewTV怡伴健康,http://39.134.65.162/PLTV/88888888/224/3221225571/index.m3u8
 NewTV中国功夫,http://39.134.65.162/PLTV/88888888/224/3221225604/index.m3u8
+NewTV炫舞未来,http://39.134.65.162/PLTV/88888888/224/3221225646/index.m3u8
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 //备用线路
@@ -329,12 +331,15 @@ NewTV超级综艺,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 NewTV潮妈辣婆,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 NewTV动作电影,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 NewTV古装剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-NewTV惊悚悬疑,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV精品大剧,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+NewTV家庭剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
+NewTV金牌综艺,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
+NewTV惊悚悬疑,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV精品纪录,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 NewTV军旅剧场,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 NewTV军事评论,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV农业致富,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
+NewTV炫舞未来,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 NewTV中国功夫,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 
 

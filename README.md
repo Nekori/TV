@@ -16,7 +16,7 @@ CCTV-1/2/3/4/5/5+/6/7/8/9/10/11/12/13/14/15/16/17/4欧洲/4美洲/4K/兵器科�
 上海-生活时尚、延边2台、国学频道、汽摩、黑莓电影、文物宝库、热播剧场、欢笑剧场、魅力足球； 
 
 # \[网络电视台]
-NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV动作电影、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、Bread TV面包台
+NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、Bread TV面包台
 
 # \[国际]
 CGTN英语/记录/俄语/法语/西语/阿语、CCTV+1/+2、LoveNrture、俄罗斯中文
@@ -33,6 +33,9 @@ iPanda、慢直播精选、西藏林芝岷山错高民宿、B站直播{怀旧动
 扬名立万、了不起的夜晚、乌龙院2022、西游伏妖篇、美人鱼、隐形侠2022
 
 # \[更新日志]
+2024.03.17.2
+
+    恢复NewTV精品大剧、NewTV炫舞未来。
 2024.03.17.1
 
     增加源：TVB星河、上海-都市、上海-第一财经、上海-纪实人文、上海-ICS、上海-东方购物、上海-新闻综合；
