@@ -1,4 +1,5 @@
 央视,#genre#
+//55055
 CCTV-1,http://113.9.165.138:55055/udp/229.58.190.72:5000
 CCTV-2,http://113.9.165.138:55055/udp/229.58.190.153:5000
 CCTV-3,http://113.9.165.138:55055/udp/229.58.190.35:5000
@@ -47,11 +48,11 @@ CETV-早期教育,http://113.9.165.138:55055/udp/229.58.190.174:5000
 中央新影-老故事,http://113.9.165.138:55055/udp/229.58.190.194:5000
 中央新影-中学生,http://113.9.165.138:55055/udp/229.58.190.99:5000
 
-//备用线路
 CCTV-1,http://113.9.165.138:55055/udp/229.58.190.151:5000
 CETV-1,http://113.9.165.138:55055/udp/229.58.190.26:5000
 CETV-4,http://113.9.165.138:55055/udp/229.58.190.83:5000
 
+//9901
 CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 CCTV-2,http://180.167.104.105:9901/tsfile/live/1016_1.m3u8
 CCTV-3,http://180.167.104.105:9901/tsfile/live/1017_1.m3u8
@@ -68,30 +69,32 @@ CCTV-14,http://180.167.104.105:9901/tsfile/live/0116_1.m3u8
 CCTV-15,http://180.167.104.105:9901/tsfile/live/0015_1.m3u8
 CCTV-1,http://180.167.104.105:9901/tsfile/live/1015_1.m3u8
 
-CCTV-中视购物,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 
-//央视
-CCTV1,http://39.134.65.162/PLTV/88888888/224/3221225816/index.m3u8
-CCTV2,http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8
-CCTV3,http://39.134.65.162/PLTV/88888888/224/3221225799/index.m3u8
-CCTV4,http://39.134.65.162/PLTV/88888888/224/3221225797/index.m3u8
-CCTV5,http://39.134.65.162/PLTV/88888888/224/3221225818/index.m3u8
-CCTV5,http://39.134.65.162/PLTV/88888888/224/3221225737/index.m3u8
-CCTV5+,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
-CCTV6,http://39.134.65.162/PLTV/88888888/224/3221225814/index.m3u8
-CCTV7,http://39.134.65.162/PLTV/88888888/224/3221225671/index.m3u8
-CCTV8,http://39.134.65.162/PLTV/88888888/224/3221225795/index.m3u8
-CCTV9,http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
-CCTV10,http://39.134.65.162/PLTV/88888888/224/3221225677/index.m3u8
-CCTV11,http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
-CCTV12,http://39.134.65.162/PLTV/88888888/224/3221225669/index.m3u8
-CCTV13,http://39.134.65.162/PLTV/88888888/224/3221225812/index.m3u8
-CCTV14,http://39.134.65.162/PLTV/88888888/224/3221225674/index.m3u8
-CCTV15,http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
-CCTV16,http://39.134.65.162/PLTV/88888888/224/3221225893/index.m3u8
-CCTV17,http://39.134.65.162/PLTV/88888888/224/3221225708/index.m3u8
-CETV1,http://39.134.65.162/PLTV/88888888/224/3221225563/index.m3u8
-CETV4,http://39.134.65.162/PLTV/88888888/224/3221225750/index.m3u8
+//PLTV
+CCTV-1,http://39.134.65.162/PLTV/88888888/224/3221225816/index.m3u8
+CCTV-2,http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8
+CCTV-3,http://39.134.65.162/PLTV/88888888/224/3221225799/index.m3u8
+CCTV-4,http://39.134.65.162/PLTV/88888888/224/3221225797/index.m3u8
+CCTV-5,http://39.134.65.162/PLTV/88888888/224/3221225818/index.m3u8
+CCTV-5,http://39.134.65.162/PLTV/88888888/224/3221225737/index.m3u8
+CCTV-5+,http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
+CCTV-6,http://39.134.65.162/PLTV/88888888/224/3221225814/index.m3u8
+CCTV-7,http://39.134.65.162/PLTV/88888888/224/3221225671/index.m3u8
+CCTV-8,http://39.134.65.162/PLTV/88888888/224/3221225795/index.m3u8
+CCTV-9,http://39.134.65.162/PLTV/88888888/224/3221225676/index.m3u8
+CCTV-10,http://39.134.65.162/PLTV/88888888/224/3221225677/index.m3u8
+CCTV-11,http://39.134.65.162/PLTV/88888888/224/3221225517/index.m3u8
+CCTV-12,http://39.134.65.162/PLTV/88888888/224/3221225669/index.m3u8
+CCTV-13,http://39.134.65.162/PLTV/88888888/224/3221225812/index.m3u8
+CCTV-14,http://39.134.65.162/PLTV/88888888/224/3221225674/index.m3u8
+CCTV-15,http://39.134.65.162/PLTV/88888888/224/3221225513/index.m3u8
+CCTV-16,http://39.134.65.162/PLTV/88888888/224/3221225893/index.m3u8
+CCTV-17,http://39.134.65.162/PLTV/88888888/224/3221225708/index.m3u8
+CETV-1,http://39.134.65.162/PLTV/88888888/224/3221225563/index.m3u8
+CETV-4,http://39.134.65.162/PLTV/88888888/224/3221225750/index.m3u8
+
+//网页
+中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 
 //央视国际频道
 CGTN-英语,https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
@@ -314,6 +317,9 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 北京-卡酷少儿,http://39.134.65.162/PLTV/88888888/224/3221225562/index.m3u8
 江苏-优漫卡通,http://39.134.65.162/PLTV/88888888/224/3221225556/index.m3u8
 
+湖南-金鹰卡通,http://113.9.165.138:55055/udp/229.58.190.98:5000
+江苏-优漫卡通,http://113.5.218.96:4022/udp/229.58.190.165:5000
+
 //内蒙古-黑莓
 黑莓电影,http://39.134.65.162/PLTV/88888888/224/3221225681/index.m3u8
 黑莓动画,http://39.134.65.162/PLTV/88888888/224/3221225529/index.m3u8
@@ -336,8 +342,8 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 哈尔滨-新闻综合,http://113.9.165.138:55055/udp/229.58.190.195:5000
 哈尔滨-影视,http://113.9.165.138:55055/udp/229.58.190.1:5000
 哈尔滨-生活,http://113.9.165.138:55055/udp/229.58.190.22:5000
-齐齐哈尔-1 新闻综合,http://113.9.165.138:55055/udp/229.58.190.164:5000
-齐齐哈尔-2 经济·法制,http://113.9.165.138:55055/udp/229.58.190.192:5000
+齐齐哈尔-新闻综合,http://113.9.165.138:55055/udp/229.58.190.164:5000
+齐齐哈尔-经济·法制,http://113.9.165.138:55055/udp/229.58.190.192:5000
 佳木斯-新闻综合,http://113.9.165.138:55055/udp/229.58.190.163:5000
 
 黑龙江-文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
@@ -370,12 +376,8 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 黑龙江-新闻法治,http://39.134.65.162/PLTV/88888888/224/3221225967/index.m3u8
 黑龙江-影视,http://39.134.65.162/PLTV/88888888/224/3221225973/index.m3u8
 
-//河南省
-河南-武术世界,http://113.9.165.138:55055/udp/229.58.190.169:5000
-河南-梨园频道,http://113.9.165.138:55055/udp/229.58.190.152:5000
-河南-国学频道,http://113.9.165.138:55055/udp/229.58.190.119:5000
-河南-文物宝库,http://113.9.165.138:55055/udp/229.58.190.167:5000
 //山东省
+山东卫视,https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东-齐鲁频道,https://livealone302.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东-体育休闲,https://livealone302.iqilu.com/iqilu/typdhjOF03kn.m3u8
 山东-生活频道,https://livealone302.iqilu.com/iqilu/shpdhjOF03kn.m3u8
@@ -384,6 +386,13 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 山东-农科频道,https://livealone302.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东-文旅频道,https://livealone302.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东-少儿频道,https://livealone302.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+
+//河南省
+河南-武术世界,http://113.9.165.138:55055/udp/229.58.190.169:5000
+河南-梨园频道,http://113.9.165.138:55055/udp/229.58.190.152:5000
+河南-国学频道,http://113.9.165.138:55055/udp/229.58.190.119:5000
+河南-文物宝库,http://113.9.165.138:55055/udp/229.58.190.167:5000
+
 //上海市
 //上海-SITV
 上海-动漫秀场,http://113.9.165.138:55055/udp/229.58.190.97:5000
@@ -403,6 +412,7 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 
 热播剧场,http://113.9.165.138:55055/udp/229.58.190.75:5000
 
+上海-新闻综合,http://180.167.104.105:9901/tsfile/live/1000_1.m3u8
 上海-游戏风云,http://180.167.104.105:9901/tsfile/live/1002_1.m3u8
 上海-教育,http://180.167.104.105:9901/tsfile/live/1012_1.m3u8
 上海-都市,http://180.167.104.105:9901/tsfile/live/1001_1.m3u8
@@ -412,7 +422,6 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 上海-哈哈炫动,http://180.167.104.105:9901/tsfile/live/1011_1.m3u8
 上海-教育,http://180.167.104.105:9901/tsfile/live/1012_1.m3u8
 上海-法治天下,http://180.167.104.105:9901/tsfile/live/1014_1.m3u8
-上海-新闻综合,http://180.167.104.105:9901/tsfile/live/1000_1.m3u8
 
 上海-纪实人文,http://39.134.65.162/PLTV/88888888/224/3221225673/index.m3u8
 
@@ -429,11 +438,9 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 杭州-求索纪录,http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
 
 //备用线路
-湖南-金鹰卡通,http://113.9.165.138:55055/udp/229.58.190.98:5000
-江苏-优漫卡通,http://113.5.218.96:4022/udp/229.58.190.165:5000
 上海-游戏风云,http://113.9.165.138:55055/udp/229.58.190.114:5000
-齐齐哈尔-1 新闻综合,http://113.9.165.138:55055/udp/229.58.190.193:5000
-齐齐哈尔-2 经济·法制,http://113.9.165.138:55055/udp/229.58.190.4:5000
+齐齐哈尔-新闻综合,http://113.9.165.138:55055/udp/229.58.190.193:5000
+齐齐哈尔-经济·法制,http://113.9.165.138:55055/udp/229.58.190.4:5000
 上海-生活时尚,http://113.9.165.138:55055/udp/229.58.190.102:5000
 上海-法治天地,http://113.9.165.138:55055/udp/229.58.190.110:5000
 上海-动漫秀场,http://113.9.165.138:55055/udp/229.58.190.78:5000
@@ -497,7 +504,7 @@ B站-怀旧动画片放映厅,https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc
 B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
 B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
 
-//斗鱼影视剧
+//斗鱼电影
 斗鱼-【神乐】华语经典电影,http://epg.112114.xyz/douyu/85894
 斗鱼-【神乐】星爷电影 喜剧经典,http://epg.112114.xyz/douyu/122402
 斗鱼-【欧美】电影,http://epg.112114.xyz/douyu/20415
@@ -505,32 +512,38 @@ B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/liv
 斗鱼-【漫威】宇宙主线,http://epg.112114.xyz/douyu/11673725
 斗鱼-【科幻】电影,http://epg.112114.xyz/douyu/12010522
 斗鱼-特辑电影院,http://epg.112114.xyz/douyu/3637778
-斗鱼-蓉城电影,http://epg.112114.xyz/douyu/11137425
+斗鱼-蓉城电影院,http://epg.112114.xyz/douyu/11137425
+斗鱼-欧美大片,http://epg.112114.xyz/douyu/2793084
+斗鱼-【蓝翔】华语经典电影,http://epg.112114.xyz/douyu/276200
+斗鱼-【霍格沃茨】,http://epg.112114.xyz/douyu/8814650
+斗鱼-【豆瓣高分】史上最佳影片大放送,http://epg.112114.xyz/douyu/8770422
+斗鱼-【奇光】港鬼片,http://epg.112114.xyz/douyu/8009547
+
+//影视剧
 斗鱼-【小宇】经典影视剧,http://epg.112114.xyz/douyu/54945
 斗鱼-经典剧作,http://epg.112114.xyz/douyu/11922242
 斗鱼-电视剧电影,http://epg.112114.xyz/douyu/9838414
-斗鱼-【蓝翔】华语经典电影,http://epg.112114.xyz/douyu/276200
+//电视剧·网剧
 斗鱼-万合天宜,http://epg.112114.xyz/douyu/9220456
 斗鱼-万合鲜肉老师,http://epg.112114.xyz/douyu/9815091
 斗鱼-地下交通站,http://epg.112114.xyz/douyu/1874054
 斗鱼-炊事班的故事,http://epg.112114.xyz/douyu/8387899
 斗鱼-我和僵尸有个约会,http://epg.112114.xyz/douyu/9470198
+斗鱼-封神榜 陈浩民,http://epg.112114.xyz/douyu/12056846
+斗鱼-洗冤录,http://epg.112114.xyz/douyu/11606410
+斗鱼-大宋提刑官,http://epg.112114.xyz/douyu/11678039
+斗鱼-金庸武侠、古装神剧,http://epg.112114.xyz/douyu/338759
+
+//动漫
 斗鱼-名侦探柯南,http://epg.112114.xyz/douyu/11954507
 斗鱼-【动漫】超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
 斗鱼-海绵宝宝1 陈浩,http://epg.112114.xyz/douyu/1569773
 斗鱼-海绵宝宝2 陈浩,http://epg.112114.xyz/douyu/7528160
 斗鱼-海绵宝宝3 陈浩,http://epg.112114.xyz/douyu/11922297
 斗鱼-海绵宝宝4 陈浩,http://epg.112114.xyz/douyu/11595245
-斗鱼-封神榜 陈浩民,http://epg.112114.xyz/douyu/12056846
-斗鱼-欧美大片,http://epg.112114.xyz/douyu/2793084
 斗鱼-犬夜叉 国语,http://epg.112114.xyz/douyu/11906591
 斗鱼-【动漫】皮克斯、Conan,http://epg.112114.xyz/douyu/7620081
-斗鱼-【霍格沃茨】,http://epg.112114.xyz/douyu/8814650
-斗鱼-【豆瓣高分】史上最佳影片大放送,http://epg.112114.xyz/douyu/8770422
-斗鱼-洗冤录,http://epg.112114.xyz/douyu/11606410
-斗鱼-大宋提刑官,http://epg.112114.xyz/douyu/11678039
-斗鱼-【奇光】港鬼片,http://epg.112114.xyz/douyu/8009547
-斗鱼-金庸武侠、古装神剧,http://epg.112114.xyz/douyu/338759
+
 //斗鱼喜剧
 斗鱼-经典小品相声,http://epg.112114.xyz/douyu/9273031
 斗鱼-陈佩斯喜剧放映,http://epg.112114.xyz/douyu/9286868
@@ -664,49 +677,106 @@ CNB亚太财经,http://180.167.104.105:9901/tsfile/live/1031_1.m3u8
 顶尖约手,http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 轮播,http://39.134.65.162/PLTV/88888888/224/3221225521/index.m3u8
 欧美电影,http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
-音乐,http://39.134.65.162/PLTV/88888888/224/3221225651/index.m3u8
-欧洲杯,http://39.134.65.162/PLTV/88888888/224/3221225619/index.m3u8
-欧洲杯2,http://39.134.65.162/PLTV/88888888/224/3221225641/index.m3u8
-欧洲杯3,http://39.134.65.162/PLTV/88888888/224/3221225639/index.m3u8
-欧洲杯4,http://39.134.65.162/PLTV/88888888/224/3221225643/index.m3u8
-欧洲杯5,http://39.134.65.162/PLTV/88888888/224/3221225645/index.m3u8
-欧洲杯6,http://39.134.65.162/PLTV/88888888/224/3221225650/index.m3u8
 
-//待测
-咪咕1,http://39.134.65.162/PLTV/88888888/224/3221225910/index.m3u8
-咪咕2,http://39.134.65.162/PLTV/88888888/224/3221225912/index.m3u8
-咪咕3,http://39.134.65.162/PLTV/88888888/224/3221225914/index.m3u8
-咪咕4,http://39.134.65.162/PLTV/88888888/224/3221225903/index.m3u8
-咪咕5,http://39.134.65.162/PLTV/88888888/224/3221225739/index.m3u8
-咪咕6,http://39.134.65.162/PLTV/88888888/224/3221225901/index.m3u8
-咪咕7,http://39.134.65.162/PLTV/88888888/224/3221225899/index.m3u8
-咪咕8,http://39.134.65.162/PLTV/88888888/224/3221225897/index.m3u8
-咪咕9,http://39.134.65.162/PLTV/88888888/224/3221225735/index.m3u8
-咪咕10,http://39.134.65.162/PLTV/88888888/224/3221225733/index.m3u8
-咪咕11,http://39.134.65.162/PLTV/88888888/224/3221225662/index.m3u8
-咪咕12,http://39.134.65.162/PLTV/88888888/224/3221225895/index.m3u8
-咪咕13,http://39.134.65.162/PLTV/88888888/224/3221225658/index.m3u8
-咪咕14,http://39.134.65.162/PLTV/88888888/224/3221225655/index.m3u8
-咪咕15,http://39.134.65.162/PLTV/88888888/224/3221225654/index.m3u8
-咪咕16,http://39.134.65.162/PLTV/88888888/224/3221225905/index.m3u8
-咪咕17,http://39.134.65.162/PLTV/88888888/224/3221225653/index.m3u8
-咪咕18,http://39.134.65.162/PLTV/88888888/224/3221225652/index.m3u8
-咪咕19,http://39.134.65.162/PLTV/88888888/224/3221225649/index.m3u8
-咪咕20,http://39.134.65.162/PLTV/88888888/224/3221225768/index.m3u8
-咪咕21,http://39.134.65.162/PLTV/88888888/224/3221225648/index.m3u8
-咪咕22,http://39.134.65.162/PLTV/88888888/224/3221225647/index.m3u8
-咪咕23,http://39.134.65.162/PLTV/88888888/224/3221225620/index.m3u8
-咪咕24,http://39.134.65.162/PLTV/88888888/224/3221225766/index.m3u8
-咪咕25,http://39.134.65.162/PLTV/88888888/224/3221225764/index.m3u8
-咪咕26,http://39.134.65.162/PLTV/88888888/224/3221225762/index.m3u8
-咪咕27,http://39.134.65.162/PLTV/88888888/224/3221226027/index.m3u8
-咪咕28,http://39.134.65.162/PLTV/88888888/224/3221225760/index.m3u8
-咪咕29,http://39.134.65.162/PLTV/88888888/224/3221225749/index.m3u8
-咪咕30,http://39.134.65.162/PLTV/88888888/224/3221226046/index.m3u8
-咪咕31,http://39.134.65.162/PLTV/88888888/224/3221225754/index.m3u8
-咪咕32,http://39.134.65.162/PLTV/88888888/224/3221226031/index.m3u8
-咪咕33,http://39.134.65.162/PLTV/88888888/224/3221225756/index.m3u8
-咪咕34,http://39.134.65.162/PLTV/88888888/224/3221225758/index.m3u8
-咪咕35,http://39.134.65.162/PLTV/88888888/224/3221225660/index.m3u8
-咪咕视频测试,http://39.134.65.162/PLTV/88888888/224/3221225613/index.m3u8
-咪咕视频测试,http://39.134.65.162/PLTV/88888888/224/3221225611/index.m3u8
+测试：广播,#genre#
+//广播
+北京交通广播,http://ls.qingting.fm/live/336.m3u8
+北京新闻广播,http://ls.qingting.fm/live/339.m3u8
+北京文艺广播,http://ls.qingting.fm/live/333.m3u8
+北京音乐广播,http://ls.qingting.fm/live/332.m3u8
+北京城市广播,https://brtv-radiolive.rbc.cn/alive/fm1073.m3u8
+北京体育广播,https://brtv-radiolive.rbc.cn/alive/fm1025.m3u8
+北京经典调频,http://live.funhillrm.com/4/sd/live.m3u8
+CRI轻松调频,http://sk.cri.cn/915.m3u8
+CRI华语环球,http://sk.cri.cn/hyhq.m3u8
+CRI环球资讯 ,http://sk.cri.cn/905.m3u8
+CRI南海之声,https://sk.cri.cn/nhzs.m3u8
+CRI英语资讯,http://sk.cri.cn/am846.m3u8
+CRI世界华声,http://sk.cri.cn/hxfh.m3u8
+CNR文艺之声,http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
+CNR交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
+CNR中国之声,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
+CNR经济之声,http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
+CNR经典音乐 ,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+CNR神州之声,http://ngcdn006.cnr.cn/live/szzs/index.m3u8
+CNR阅读之声,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
+CNR乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
+CNR湾区之声,http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
+CNR老年之声,http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
+CNR台海之声,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
+CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+台中广播电台,http://211.20.119.101:8081
+湖南旅游广播,https://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
+湖南文艺广播,https://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
+上海故事广播,http://live.cooltv.top/tv/news1296.php?id=10
+四川文艺广播,http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
+山西文艺广播 ,http://radiolive.sxrtv.com/live/wenyi/playlist.m3u8
+江苏文艺广播,http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
+江苏音乐广播,http://live.cooltv.top/tv/ytradio.php?id=415
+湖南音乐之声,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+江苏故事广播,http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
+广东音乐之声,http://live.cooltv.top/tv/ytradio.php?id=489
+Hit FM劲曲,http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
+南京音乐广播,http://hls.njgb.com/live_hls/4/playlist.m3u8
+河北汽车音乐,https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+陕西音乐广播,http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
+广州汽车音乐,https://rscdn-qn-i.ajmide.com/r_1088/1088.m3u8
+深圳音乐广播,https://rscdn-qn-i.ajmide.com/r_1380/1380.m3u8
+宜昌音生广播,http://play.3xgd.com/fm/qct.m3u8
+江西故事广播,http://live02.jxtvcn.com.cn/live-jxtvcn/jxtv_myfm969.m3u8
+上海音乐广播,http://live.cooltv.top/tv/news1296.php?id=8
+上海音乐电台,http://live.cooltv.top/tv/news1296.php?id=9
+Love Radio,http://live.cooltv.top/tv/news1296.php?id=7
+上海流行音乐,http://live.cooltv.top/tv/news1296.php?id=4
+Cool Radio,http://hls.njgb.com/live_hls/8/playlist.m3u8
+河北文艺广播,http://satellitepull.cnr.cn/live/wxhebwygb/playlist.m3u8
+全国广播,http://stream.rcs.revma.com/044q61ha7a0uv/hls.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+天籁国风,http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
+天籁之音 Hi-Fi  ,http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
+天籁经典流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
+摇滚天空,http://stream3.hndt.com/now/SXJtR4M4/playlist.m3u8
+国乐悠扬,http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+安全百科,http://stream3.hndt.com/now/4pcovD2L/playlist.m3u8
+潮流音悦台,http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+80后音悦台,http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+民谣蓝调,http://play-radio-stream3.hndt.com/now/XWfN89gh/playlist.m3u8
+民谣音乐台,http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+BCC中广流行,http://n14.rcs.revma.com/aw9uqyxy2tzuv
+BCC中广音乐,http://n07.rcs.revma.com/ks4vsmg3qtzuv
+CityFM台南知音,http://fm971.cityfm.tw:8080/971.mp3
+美国之音,http://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+One FM,http://mediaprima.rastream.com/mediaprima-onefm
+BCC中广新闻 ,http://n12.rcs.revma.com/78fm9wyy2tzuv
+Hao FM,https://22283.live.streamtheworld.com/HAO_963AAC.aac
+Gold FM,http://22903.live.streamtheworld.com:3690/GOLD905_PREM.aac
+Money FM,https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
+Yes FM,https://22393.live.streamtheworld.com/YES933_PREM.aac
+Kiss FM,https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac
+Love FM,https://14033.live.streamtheworld.com/LOVE972FM_PREM.aac
+Classic FM,http://ice-sov.musicradio.com/ClassicFM
+Capital FM,https://19183.live.streamtheworld.com/CAPITAL958FM_PREM.aac
+NPR News,https://nprdmcoitunes.akamaized.net/hls/live/2034276/itls/playlist.m3u8
+VOA环球英语,http://voa-ingest.akamaized.net/hls/live/2035200/161_352R/playlist.m3u8
+Power FM,https://crystalout.surfernetwork.com:8001/KVSP_MP3
+RTI中央广播,https://streamak0138.akamaized.net/live0138lh-mbm9/_definst_/rti3/playlist.m3u8
+半岛新闻,http://tunein.ord.streamguys1.com/secure-aljazeera-english
+CNA亚洲新闻,https://14033.live.streamtheworld.com/938NOW_PREM.aac
+LBC UK,https://ice-sov.musicradio.com/LBCUKMP3
+LBC News,https://icecast.thisisdax.com/LBCNewsUKMP3
+Times Radio,http://timesradio.wireless.radio/stream
+BBC News,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=320000.m3u8
+CNN News,http://tunein.ord.streamguys1.com/secure-CNNi
+News Radio UK,http://playoutonestreaming.com:8008/stream
+BBC Radio 1,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio=320000.m3u8
+BBC Radio 1 Relax,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_relax/bbc_radio_one_relax.isml/bbc_radio_one_relax-audio=320000.m3u8
+BBC Radio 1 Dance,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio=320000.m3u8
+BBC Radio 1Xtra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio=320000.m3u8
+BBC Radio 2,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio=320000.m3u8
+BBC Radio 3,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio=320000.m3u8
+BBC Radio 4,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio=320000.m3u8
+BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio=320000.m3u8
+BBC Radio 5 Live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
+BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
