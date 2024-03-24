@@ -52,6 +52,7 @@ CCTV-1,http://113.9.165.138:55055/udp/229.58.190.151:5000
 CETV-1,http://113.9.165.138:55055/udp/229.58.190.26:5000
 CETV-4,http://113.9.165.138:55055/udp/229.58.190.83:5000
 
+央视,#genre#
 //9901
 CCTV-1,http://180.167.104.105:9901/tsfile/live/1029_1.m3u8
 CCTV-2,http://180.167.104.105:9901/tsfile/live/1016_1.m3u8
@@ -636,7 +637,7 @@ iPanda-云南白马雪山自然保护区,https://gcwbndtxy.liveplay.myqcloud.com
 新白娘子传奇 第50集,https://vip.lz-cdn6.com/20220824/23826_bd2d2798/index.m3u8
 
 电视剧,#genre#
-新白娘子传奇,https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay/新白娘子传奇.m3u8
+新白娘子传奇,https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay/xbnzcq.m3u8
 
 电影,#genre#
 扬名立万，类型：喜剧 地区：大陆 主演：尹正 邓家佳 喻恩泰 杨皓宇 陈明昊 秦霄贤 张本煜 柯达 邓恩熙 余皑磊 白客 赵文瑄 小爱 周奇 导演：刘循子墨 年份：2021,https://vip.lz-cdn1.com/20220609/8294_ad6fcfdc/index.m3u8
