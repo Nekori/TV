@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="新白娘子传奇",新白娘子传奇
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=800000,RESOLUTION=1080x608
 https://vip.lz-cdn6.com/20220823/23777_0fdfb16f/index.m3u8
 https://vip.lz-cdn6.com/20220823/23778_e783f5e8/index.m3u8
 https://vip.lz-cdn6.com/20220823/23779_d71cd57b/index.m3u8
