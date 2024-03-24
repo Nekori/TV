@@ -635,6 +635,8 @@ iPanda-云南白马雪山自然保护区,https://gcwbndtxy.liveplay.myqcloud.com
 新白娘子传奇 第49集,https://vip.lz-cdn6.com/20220824/23825_32eb4260/index.m3u8
 新白娘子传奇 第50集,https://vip.lz-cdn6.com/20220824/23826_bd2d2798/index.m3u8
 
+电视剧,#genre#
+新白娘子传奇,https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/电视剧/新白娘子传奇
 
 电影,#genre#
 扬名立万，类型：喜剧 地区：大陆 主演：尹正 邓家佳 喻恩泰 杨皓宇 陈明昊 秦霄贤 张本煜 柯达 邓恩熙 余皑磊 白客 赵文瑄 小爱 周奇 导演：刘循子墨 年份：2021,https://vip.lz-cdn1.com/20220609/8294_ad6fcfdc/index.m3u8

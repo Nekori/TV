@@ -1,7 +1,7 @@
 # TV
 
 ## 直播源
-[电视直播源txt格式](https://mirror.ghproxy.com/https://raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)
+[电视直播源txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)
 
 [在线txt转m3u列表](https://live.fanmingming.com/txt2m3u/)
 
@@ -37,6 +37,9 @@ B站直播{怀旧动画放映厅、哈啤相声直播、刘宝瑞相声直播}�
 动感音乐台、格莱美音乐台、潮流音乐、民谣蓝调、舞迷心窍、警广之声、心灵音乐馆、80后音乐、经典FM
 
 # \[更新日志]
+2024.03.24
+
+    尝试嵌套结构。
 2024.03.23
 
     对列表进行了一些整理，增加一些广播测试源。
