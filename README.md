@@ -1,9 +1,10 @@
 # TV
 
 ## 直播源
-[电视直播源txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)
-
-[在线txt转m3u列表](https://live.fanmingming.com/txt2m3u/)
+[电视直播源txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)，
+[影视剧txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay.txt)，
+[txt转m3u](https://live.fanmingming.com/txt2m3u/)，
+[在线m3u转换](https://epg.112114.xyz/cjtrans)
 
 ## 注意
     播放中如果出现闪退，可以快速调台至可以正常播放的频道，然后更改播放核心如EXO或系统。
