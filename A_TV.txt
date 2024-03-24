@@ -500,11 +500,6 @@ NewTV中国功夫,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/
 NewTV军旅剧场,http://39.134.65.162/PLTV/88888888/224/3221225560/index.m3u8
 
 直播,#genre#
-//B站
-B站-怀旧动画片放映厅,https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
-B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
-B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
-
 //斗鱼电影
 斗鱼-【神乐】华语经典电影,http://epg.112114.xyz/douyu/85894
 斗鱼-【神乐】星爷电影 喜剧经典,http://epg.112114.xyz/douyu/122402
@@ -560,6 +555,10 @@ B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/liv
 斗鱼-叶尘说电影,http://epg.112114.xyz/douyu/9252442
 斗鱼-口音贼重的动漫解说,http://epg.112114.xyz/douyu/9734098
 
+//B站
+B站-怀旧动画片放映厅,https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
+B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
+B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
 
 //iPanda
 iPanda-中国大熊猫保护研究中心,https://gcwbndks.v.kcdnvip.com/gcwbnd/ipanda1000_2/index.m3u8
