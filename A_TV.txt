@@ -624,6 +624,7 @@ iPanda-云南白马雪山自然保护区,https://gcwbndtxy.liveplay.myqcloud.com
 隐形侠2022，主演：李晨浩 魏笑 巩汉林 导演：胡戈 类型：喜剧 地区：大陆 年份：2022,https://vip.lz-cdn3.com/20220803/10651_e58edfc9/index.m3u8
 
 //已看完
+让子弹飞，导演：姜文 类型：喜剧 地区：大陆 年份：2010,https://vip.lzcdn2.com/20220318/12_2644b2e0/index.m3u8
 西游伏妖篇国语，导演：徐克 类型：喜剧 地区：大陆 年份：2017,https://vip.lz-cdn8.com/20220911/27002_4b48c8fb/index.m3u8
 美人鱼国语，导演：周星驰 类型：喜剧 地区：大陆 年份：2016,https://vip.lz-cdn.com/20220828/30513_3bcb1616/index.m3u8
 了不起的夜晚，主演：范丞丞 蒋龙 蒋易 王子璇 梁龙 孔连顺 蒋诗萌 甘昀宸 许馨文 梦涵 齐羽嘉 导演：马凯 类型：喜剧 惊悚 地区：大陆 年份：2023,https://hot.nfm3u8.com/20230620/kZl8QHZL/index.m3u8
@@ -780,7 +781,6 @@ cgtn纪录[785*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 安徽卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视[785*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226498/index.m3u8
 北京卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
-大庆新闻综合[720*576],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225768/index.m3u8
 电竞,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 东方卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226082/index.m3u8
 东方卫视,http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
