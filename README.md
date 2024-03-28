@@ -4,7 +4,7 @@
 [电视直播源txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)，
 [影视剧txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay.txt)，
 [txt转m3u](https://live.fanmingming.com/txt2m3u/)，
-[在线m3u转换](https://epg.112114.eu.org/cjtrans)
+[在线m3u转换](http://epg.112114.eu.org/cjtrans)
 
 ## 注意
     播放中如果出现闪退，可以快速调台至可以正常播放的频道，然后更改播放核心如EXO或系统。
@@ -39,6 +39,10 @@ CGTN英语/记录/俄语/法语/西语/阿语、CCTV+1/+2、LoveNrture、俄罗�
 动感音乐台、格莱美音乐台、潮流音乐、民谣蓝调、舞迷心窍、警广之声、心灵音乐馆、80后音乐、经典FM
 
 # \[更新日志]
+2024.03.28
+
+    修正部分频道名称；
+    增加备用线路。
 2024.03.27
 
     删除失效测试组；
