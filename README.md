@@ -2,7 +2,7 @@
 
 ## 直播源
 [电视直播源txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)，
-[影视剧txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay.txt)，
+[影视剧列表txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay.txt)，
 [txt转m3u](https://live.fanmingming.com/txt2m3u/)，
 [在线m3u转换](http://epg.112114.eu.org/cjtrans)
 
@@ -53,8 +53,7 @@ LoveNrture、俄罗斯中文、NHK日本广播协会、KBS韩国广播电视、C
 斗鱼直播{电影：华语经典电影/星爷电影/欧美电影/漫威电影/科幻电影/特辑电影院/蓉城电影院/欧美大片/华语经典电影/霍格沃兹/史上最佳影片放送/港鬼片、影视剧：经典影视剧/经典剧作/电视剧电影、电视剧·网剧：万合天宜/地下交通站/炊事班/我和僵尸有个约会/封神榜/洗冤录/大宋提刑官/金庸武侠剧、动漫：柯南/怀旧经典/海绵宝宝/犬夜叉/皮克斯、喜剧：经典小品相声/陈佩斯喜剧/赵本山经典小品/辽视欢乐集锦/搞笑天堂岛、影视解说：小片片说大片/牛叔说电影/虫哥说电影/楠者电影/1900影剧室/叶尘说电影/口音贼重的动漫解说}、B站直播{怀旧动画放映厅、哈啤相声直播、刘宝瑞相声直播}
 ### \[央视网直播]
 央视网直播{慢直播精选、珠穆朗玛峰、布达拉宫、芝岷山错高民宿、新疆天山天池、鸣沙山月牙泉、七彩丹霞、云南古寨曼丢、玉龙雪山、勐焕大金塔、峨眉山、牡丹江镜泊湖、杭州千岛湖}
-### \[电影]
-扬名立万、了不起的夜晚、乌龙院2022、西游伏妖篇、美人鱼、隐形侠2022
+
 
 ## \[广播]
 动感音乐台、格莱美音乐台、潮流音乐、民谣蓝调、舞迷心窍、警广之声、心灵音乐馆、80后音乐、经典FM、第1财经、北京交通广播、北京新闻广播、北京文艺广播、北京音乐广播、北京城市广播、北京体育广播、北京经典调频、CRI轻松调频、CRI华语环球、CRI环球资讯 、CRI南海之声、CRI英语资讯、CRI世界华声、CNR文艺之声、CNR交通广播、CNR中国之声、CNR经济之声、CNR经典音乐 、CNR神州之声、CNR阅读之声、CNR乡村之声、CNR湾区之声、CNR老年之声、CNR台海之声、CNR音乐之声、台中广播电台、湖南旅游广播、湖南文艺广播、上海故事广播、四川文艺广播、山西文艺广播 、江苏文艺广播、江苏音乐广播、湖南音乐之声、江苏故事广播、广东音乐之声、Hit FM劲曲、南京音乐广播、河北汽车音乐、陕西音乐广播、广州汽车音乐、深圳音乐广播、宜昌音生广播、江西故事广播、上海音乐广播、上海音乐电台、Love Radio、上海流行音乐、Cool Radio、河北文艺广播、全国广播、天籁古典、天籁国风、天籁之音 Hi-Fi  、天籁经典流行、摇滚天空、国乐悠扬、有声文摘、安全百科、潮流音悦台、80后音悦台、经典FM、民谣蓝调、民谣音乐台、BCC中广流行、BCC中广音乐、CityFM台南知音、美国之音、One FM、BCC中广新闻 、Hao FM、Gold FM、Money FM、Yes FM、Kiss FM、Love FM、Classic FM、Capital FM、NPR News、VOA环球英语、Power FM、RTI中央广播、半岛新闻、CNA亚洲新闻、LBC UK、LBC News、Times Radio、BBC News、CNN News、News Radio UK、BBC Radio 1、BBC Radio 1 Relax、BBC Radio 1 Dance、BBC Radio 1Xtra、BBC Radio 2、BBC Radio 3、BBC Radio 4、BBC Radio 4 Extra、BBC Radio 5 Live、BBC Radio 6 Music
@@ -63,7 +62,8 @@ LoveNrture、俄罗斯中文、NHK日本广播协会、KBS韩国广播电视、C
 # \[更新日志]
 2024.04.01
 
-    增加源：黄河卫视、北京{车迷频道、生态环境、四海钓鱼、优优宝贝、环球旅游}、山西{经济与科技、影视、社会与法制、文体生活、晋中综合、晋中公共、运城1台、运城2台、盐湖频道}。
+    增加源：黄河卫视、北京{车迷频道、生态环境、四海钓鱼、优优宝贝、环球旅游}、山西{经济与科技、影视、社会与法制、文体生活、晋中综合、晋中公共、运城1台、运城2台、盐湖频道}；
+    电影分区调整至TVplay.txt中。
 2024.03.30
     
     增加源：湖南-金鹰纪实、书画频道、重庆-汽摩、CHTV-百姓健康、陕西-农林卫视；
