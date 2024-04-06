@@ -566,7 +566,15 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 山东-文旅频道,https://livealone302.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东-少儿频道,https://livealone302.iqilu.com/iqilu/sepdhjOF03kn.m3u8
 香港-環球电视台,https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
-
+广东-南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+浙江-钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江-经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江-教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江-民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江-新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江-少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江-国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 数字电视,#genre#
 //网页
@@ -715,6 +723,9 @@ iPanda-云南白马雪山自然保护区,https://gcwbndtxy.liveplay.myqcloud.com
 //网页
 Love Nrture 4K「自然」,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+CNN美国有线电视新闻网,https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
+BBC英国广播公司,https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
+CNA新加坡亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 //180.167.104.105:9901
 NHK日本广播协会,http://180.167.104.105:9901/tsfile/live/1025_1.m3u8
 KBS韩国广播电视,http://180.167.104.105:9901/tsfile/live/1026_1.m3u8

@@ -4,8 +4,7 @@
 [电视直播源txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/A_TV.txt)，
 [影视剧列表txt格式](https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/TVplay.txt)，
 [txt转m3u](https://live.fanmingming.com/txt2m3u/)，
-[在线m3u转txt](https://fanmingming.com/txt?url=https://mirror.ghproxy.com/raw.githubusercontent.com/Nekori/TV/master/%E6%B5%8B%E8%AF%95.m3u8)，
-[在线txt转m3u](http://epg.112114.eu.org/cjtrans)
+[txt与m3u互转](http://epg.112114.eu.org/cjtrans)
 
 ## 注意
     播放中如果出现闪退，可以快速调台至可以正常播放的频道，然后更改播放核心如EXO或系统。
@@ -42,12 +41,13 @@ CGTN-英语、记录、俄语、法语、西语、阿语、CCTV+1、CCTV+2
 重庆-汽摩  
 陕西-农林卫视  
 山西-经济与科技、影视、社会与法制、文体生活、晋中综合、晋中公共、运城1台、运城2台、盐湖频道
+广东-南国都市
 
 ## \[数字电视]
 NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、Bread TV面包台
 
 ## \[国际]
-LoveNrture、俄罗斯中文、NHK日本广播协会、KBS韩国广播电视、CAN亚洲新闻台、CNB亚太财经
+LoveNrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播公司、CNA新加坡亚洲新闻台、NHK日本广播协会、KBS韩国广播电视、CAN亚洲新闻台、CNB亚太财经
 
 ## \[其他]
 ### \[网络直播]
@@ -63,7 +63,7 @@ LoveNrture、俄罗斯中文、NHK日本广播协会、KBS韩国广播电视、C
 # \[更新日志]
 2024.04.06
 
-    增加源：凤凰卫视中文台、凤凰卫视资讯台
+    增加源：凤凰卫视中文台、凤凰卫视资讯台、广东-南国都市、浙江-钱江/经济生活/科教/民生/新闻/少儿/国际/之江记录、CNN、BBC、CNA。
     增加内蒙古组播（待测试）。
 2024.04.01
 
