@@ -47,7 +47,7 @@ CGTN-英语、记录、俄语、法语、西语、阿语、CCTV+1、CCTV+2
 NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、Bread TV面包台
 
 ## \[国际]
-LoveNrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播公司、CNA新加坡亚洲新闻台、NHK日本广播协会、KBS韩国广播电视、CAN亚洲新闻台、CNB亚太财经
+Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播公司、CNA新加坡亚洲新闻台、ABC News Live美国广播公司新闻直播、Live Now FOX美国福克斯新闻、NBC News Now美国全国广播公司新闻、Sky News英国天空新闻台、ABC7 Bay Area、CBS News Bay Area、Euronews Live、AXS TV Now 、ABC Australia、Newsmax、Dubai One、Al Jazeera、NHK World、Arirang、KBS World、Bloomberg Asia、Bloomberg Originals、CBN News、GB News、RT News、TBS、FXX、A&E、AMC、Star、BET、TNT、Red Bull TV、RT Documentary、TRT World、Taiwan Plus、ION Plus、ION、Love Nature、Disney International、Fashion TV、Fight Network、Star Movies、Movies Now、BBC America、Cinemax East、HBO、HBO Plus、HBO West、HBO 2、HBO Family、HBO Signature、&Flix HD、Wild Earth、Wild Planet、Clarity 4K、Comedy Central、Nickelodeon、History、Paramount Network、HBO Xtreme、Cinemax、Rakuten Comedy、Rakuten Family、Rakuten Action、Sky Sport、Stadium、FIFA+、Trace Sports、BBC Earth、BBC Food、BBC Home、NBA TV、Universal Kids、Nat Geo、NASA、Start TV、The Weather Channel、Pop、WE TV、Me TV、SNY、Documentary+、Tastemade、MovieSphere、hTravelxp
 
 ## \[其他]
 ### \[网络直播]
@@ -61,6 +61,10 @@ LoveNrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播�
 
 
 # \[更新日志]
+2024.04.07
+
+    删除失效源：NHK日本广播协会、KBS韩国广播电视、CAN亚洲新闻台、CNB亚太财经。
+    增加源（未完全测试）：ABC News Live、Live Now FOX、NBC News Now、Sky News、ABC7 Bay Area、CBS News Bay Area、Euronews Live、AXS TV Now 、ABC Australia、Newsmax、Dubai One、Al Jazeera、NHK World、Arirang、KBS World、Bloomberg Asia、Bloomberg Originals、CBN News、GB News、RT News、TBS、FXX、A&E、AMC、Star、BET、TNT、Red Bull TV、RT Documentary、TRT World、Taiwan Plus、ION Plus、ION、Love Nature、Disney International、Fashion TV、Fight Network、Star Movies、Movies Now、BBC America、Cinemax East、HBO、HBO Plus、HBO West、HBO 2、HBO Family、HBO Signature、&Flix HD、Wild Earth、Wild Planet、Clarity 4K、Comedy Central、Nickelodeon、History、Paramount Network、HBO Xtreme、Cinemax、Rakuten Comedy、Rakuten Family、Rakuten Action、Sky Sport、Stadium、FIFA+、Trace Sports、BBC Earth、BBC Food、BBC Home、NBA TV、Universal Kids、Nat Geo、NASA、Start TV、The Weather Channel、Pop、WE TV、Me TV、SNY、Documentary+、Tastemade、MovieSphere、hTravelxp。
 2024.04.06
 
     增加源：凤凰卫视中文台、凤凰卫视资讯台、广东-南国都市、浙江-钱江/经济生活/科教/民生/新闻/少儿/国际/之江记录、CNN、BBC、CNA。
@@ -69,14 +73,7 @@ LoveNrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播�
 
     增加源：黄河卫视、北京{车迷频道、生态环境、四海钓鱼、优优宝贝、环球旅游}、山西{经济与科技、影视、社会与法制、文体生活、晋中综合、晋中公共、运城1台、运城2台、盐湖频道}；
     电影分区调整至TVplay.txt中。
-2024.03.30
-    
-    增加源：湖南-金鹰纪实、书画频道、重庆-汽摩、CHTV-百姓健康、陕西-农林卫视；
-    增加备用线路。
-2024.03.29
-    
-    增加源：中央新影-发现之旅；
-    清除失效源并增加新的测试源。
+
 [更多日志](Update%20log.md ':include')
 # \[特别感谢]
 [live.fanmingming.com](https://live.fanmingming.com)提供的工具  
