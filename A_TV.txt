@@ -436,12 +436,14 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 厦门卫视,https://epg.pw/stream/aa65dd411565991ace44f9e5934bd018fdd52122e052d471a363b6ee839e1079.ctv
 三沙卫视,
-星空卫视,http://171.217.58.43:8088/udp/239.93.0.156:2193
+星空卫视,http://171.214.202.208:4000/udp/239.93.1.10:2193
+星空卫视,http://171.214.202.208:4000/udp/239.93.0.156:2193
 凤凰卫视中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视香港台,
 西藏卫视,http://222.189.51.62:8888/newlive/live/hls/37/live.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
+澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 
 地方频道,#genre#
 //39.134.65.162/PLTV
