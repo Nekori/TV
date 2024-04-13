@@ -1,11 +1,21 @@
-原神,#genre#
+原神4.0,#genre#
 《原神》4.6版本「两界为火，赤夜将熄」前瞻特别节目,https://prod-vod-sign.miyoushe.com/ocppnchMzAHe3KCy7nBIYFIliAIZBDMQVCEv4J?auth_key=1712931796-44f8823ebc-0-0bb4630d4ce88f46a17890fa165c94d4
 《原神》4.6版本PV：「两界为火，赤夜将熄」,https://prod-vod-sign.miyoushe.com/oIhDMh7Ni7qhITJsMjzQyAVyQgCIFKv4QAfDat?auth_key=1712930060-3471bc867c-0-6ac5a93f98b9000288aa94e60611c50a
 
+原神1.0,#genre#
+《原神》1.1版本「迫近的客星」前瞻特别节目,https://cn-zjjh-ct-04-13.bilivideo.com/upgcxcode/38/11/250931138/250931138-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1713018493&gen=playurlv2&os=bcache&oi=2061764637&trid=000023a22f1f24a44417b226cae07a16a51bh&mid=0&platform=html5&upsig=94e2a5d32d594d386b30f29cac35c711&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=6598&bvc=vod&nettype=0&f=h_0_0&bw=52536&logo=80000000
+《原神》1.2版本「白垩与黑龙」前瞻特别节目,https://cn-jxjj-ct-01-08.bilivideo.com/upgcxcode/14/16/265401614/265401614_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1713018612&gen=playurlv2&os=bcache&oi=2061764637&trid=0000a95d4354aac34b928bd2b52a8b938414h&mid=0&platform=html5&upsig=0bdcd1839fd42a08ae519056f8c5af82&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=6470&bvc=vod&nettype=0&f=h_0_0&bw=34476&logo=80000000
+《原神》1.3版本「明霄升海平」前瞻特别节目,https://cn-hblf-ct-01-14.bilivideo.com/upgcxcode/55/12/288881255/288881255_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1713018819&gen=playurlv2&os=bcache&oi=2061764637&trid=0000ce6cd50fc5f64a6799880f5db611b90bh&mid=0&platform=html5&upsig=425b477152921bf7597bcdb01698d886&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=63214&bvc=vod&nettype=0&f=h_0_0&bw=39630&logo=80000000
+《原神》1.4版本「风花的邀约」前瞻特别节目,https://cn-jsnt-ct-01-17.bilivideo.com/upgcxcode/93/81/306788193/306788193_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1713018897&gen=playurlv2&os=bcache&oi=2061764637&trid=0000f5d819068b974e8182e8a41988e49adbh&mid=0&platform=html5&upsig=34a69e52db46fca1af57a1b5bf45d643&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=9925&bvc=vod&nettype=0&f=h_0_0&bw=38140&logo=80000000
+《原神》1.5版本「玉扉绕尘歌」前瞻特别节目,https://cn-sccd-ct-01-20.bilivideo.com/upgcxcode/40/87/324988740/324988740_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1713018948&gen=playurlv2&os=bcache&oi=2061764637&trid=00004613f57c541542339f6709bb3516f569h&mid=0&platform=html5&upsig=12cc47d2b609727c5d9ee95eefa9f135&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=62620&bvc=vod&nettype=0&f=h_0_0&bw=38149&logo=80000000
+《原神》1.6版本「盛夏！海岛？大冒险！」前瞻特别节目,https://cn-xj-ct-01-04.bilivideo.com/upgcxcode/98/30/345293098/345293098_nb2-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1713019002&gen=playurlv2&os=bcache&oi=2061764637&trid=00006c8e6a59ed66416ba12adf5206ace5ceh&mid=0&platform=html5&upsig=d578373dee9ac5e0fc0e0bef9ecd1000&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&cdnid=87004&bvc=vod&nettype=0&f=h_0_0&bw=35956&logo=80000000
+
+原神4.0,#genre#
 《原神》4.0版本「仿若无因飘落的轻雨」前瞻特别节目,https://prod-vod-sign.miyoushe.com/og6RzQCLzPuDgVBiBMwZkscAwQMMxhcTE0bII?auth_key=1712934666-bf68716e9a-0-6135b36b49159be86b5c3f4e49c68538
 《原神》4.1版本「向深水中的晨星」前瞻特别节目,https://prod-vod-sign.miyoushe.com/oEPlQrFMEPfBREaAJQgstQopAAcYIgBnDDfCVL?auth_key=1712934555-d2d9887702-0-cc51a98e14b4732f6bef33facfe88561
 《原神》4.2版本「罪人舞步旋」前瞻特别节目,https://prod-vod-sign.miyoushe.com/oI7i0PykfAqlgsMECJAvNNQSRBNIMwFgmMFeHL?auth_key=1712934308-4614f22e38-0-e357fafb4bad198d1ae93c147e29e187
 《原神》4.3版本「蔷薇与铳枪」前瞻特别节目,https://prod-vod-sign.miyoushe.com/oknlvLPUNcI3MQFrEHgVQqgA6QnF8lm5f9AwBf?auth_key=1712934383-9ba3d5c335-0-996ce6b4995f255295e018f1769250b5
 《原神》4.4版本「彩鹞栉春风」前瞻特别节目,https://prod-vod-sign.miyoushe.com/oIItqyxi4ASckQCWipEFuy7gkWMre1bnbBW5Xm?auth_key=1712934442-72c9d6e2cb-0-23283e2c1d898632a947d1a138f69493
 《原神》4.5版本「铓锋锦间裁」前瞻特别节目,https://prod-vod-sign.miyoushe.com/o00DIhnr2mFC1oN2THZZACyXXipQSAweEUwnh9?auth_key=1712931610-8127fe7f5b-0-1ccdbce2ffbc42aff1e8eaeef105bb41
-
+《原神》4.6版本「两界为火，赤夜将熄」前瞻特别节目,https://prod-vod-sign.miyoushe.com/ocppnchMzAHe3KCy7nBIYFIliAIZBDMQVCEv4J?auth_key=1712931796-44f8823ebc-0-0bb4630d4ce88f46a17890fa165c94d4
+《原神》4.6版本PV：「两界为火，赤夜将熄」,https://prod-vod-sign.miyoushe.com/oIhDMh7Ni7qhITJsMjzQyAVyQgCIFKv4QAfDat?auth_key=1712930060-3471bc867c-0-6ac5a93f98b9000288aa94e60611c50a

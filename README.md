@@ -61,6 +61,10 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 
 
 # \[更新日志]
+2024.04.13
+
+    替换源，山西电信源失效，替换至新地址；
+    删除失效源文件，更新m3u。
 2024.04.12
 
     增加文件：原神4.0系列前瞻节目。
@@ -72,22 +76,6 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 
     增加源：湖南-经视、都市、爱晚、娱乐、国际、电影、电视剧、教育，台湾-TVBS新闻台；
     添加备用线路。
-2024.04.09
-
-    替换源，黑龙江联通组播源失效，替换至新地址；
-    增加源：星空卫视、内蒙古蒙古语卫视/经济/文体/农牧/新闻/蒙语文化/少儿、鄂尔多斯-蒙古语综合/新闻综合/经济服务。
-2024.04.07
-
-    删除失效源：NHK日本广播协会、KBS韩国广播电视、CAN亚洲新闻台、CNB亚太财经。
-    增加源（未完全测试）：ABC News Live、Live Now FOX、NBC News Now、Sky News、ABC7 Bay Area、CBS News Bay Area、Euronews Live、AXS TV Now 、ABC Australia、Newsmax、Dubai One、Al Jazeera、NHK World、Arirang、KBS World、Bloomberg Asia、Bloomberg Originals、CBN News、GB News、RT News、TBS、FXX、A&E、AMC、Star、BET、TNT、Red Bull TV、RT Documentary、TRT World、Taiwan Plus、ION Plus、ION、Love Nature、Disney International、Fashion TV、Fight Network、Star Movies、Movies Now、BBC America、Cinemax East、HBO、HBO Plus、HBO West、HBO 2、HBO Family、HBO Signature、&Flix HD、Wild Earth、Wild Planet、Clarity 4K、Comedy Central、Nickelodeon、History、Paramount Network、HBO Xtreme、Cinemax、Rakuten Comedy、Rakuten Family、Rakuten Action、Sky Sport、Stadium、FIFA+、Trace Sports、BBC Earth、BBC Food、BBC Home、NBA TV、Universal Kids、Nat Geo、NASA、Start TV、The Weather Channel、Pop、WE TV、Me TV、SNY、Documentary+、Tastemade、MovieSphere、hTravelxp。
-2024.04.06
-
-    增加源：凤凰卫视中文台、凤凰卫视资讯台、广东-南国都市、浙江-钱江/经济生活/科教/民生/新闻/少儿/国际/之江记录、CNN、BBC、CNA。
-    增加内蒙古组播（待测试）。
-2024.04.01
-
-    增加源：黄河卫视、北京{车迷频道、生态环境、四海钓鱼、优优宝贝、环球旅游}、山西{经济与科技、影视、社会与法制、文体生活、晋中综合、晋中公共、运城1台、运城2台、盐湖频道}；
-    电影分区调整至TVplay.txt中。
 
 [更多日志](Update%20log.md ':include')
 # \[特别感谢]
