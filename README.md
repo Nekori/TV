@@ -22,7 +22,7 @@ CHC-动作电影、家庭影院、高清电影
 CGTN-英语、记录、俄语、法语、西语、阿语、CCTV+1、CCTV+2
 
 ## \[卫视]
-北京卫视、湖南卫视、东方卫视、四川卫视、天津卫视、安徽卫视、山东卫视、广东卫视、广西卫视、江苏卫视、江西卫视、河北卫视、河南卫视、浙江卫视、海南卫视、深圳卫视、湖北卫视、山西卫视、东南卫视、贵州卫视、辽宁卫视、重庆卫视、黑龙江卫视、内蒙古卫视、宁夏卫视、陕西卫视、甘肃卫视、吉林卫视、云南卫视、三沙卫视、青海卫视、新疆卫视、西藏卫视、兵团卫视、延边卫视、大湾区卫视、安多卫视、厦门卫视、康巴卫视、星空卫视、山东教育卫视、黄河电视台、凤凰卫视中文台、凤凰卫视资讯台
+北京卫视、湖南卫视、东方卫视、四川卫视、天津卫视、安徽卫视、山东卫视、广东卫视、广西卫视、江苏卫视、江西卫视、河北卫视、河南卫视、浙江卫视、海南卫视、深圳卫视、湖北卫视、山西卫视、东南卫视、贵州卫视、辽宁卫视、重庆卫视、黑龙江卫视、内蒙古卫视、宁夏卫视、陕西卫视、甘肃卫视、吉林卫视、云南卫视、三沙卫视、青海卫视、新疆卫视、西藏卫视、兵团卫视、延边卫视、大湾区卫视、安多卫视、厦门卫视、康巴卫视、星空卫视、山东教育卫视、黄河电视台、凤凰卫视中文台、凤凰卫视资讯台、星空音乐台
 
 ## \[地方台]
 五大少儿卫视  
@@ -44,7 +44,7 @@ CGTN-英语、记录、俄语、法语、西语、阿语、CCTV+1、CCTV+2
 广东-南国都市
 
 ## \[数字电视]
-NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、Bread TV面包台
+Bread TV面包台、NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、SMC中录动漫
 
 ## \[国际]
 Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播公司、CNA新加坡亚洲新闻台、ABC News Live美国广播公司新闻直播、Live Now FOX美国福克斯新闻、NBC News Now美国全国广播公司新闻、Sky News英国天空新闻台、ABC7 Bay Area、CBS News Bay Area、Euronews Live、AXS TV Now 、ABC Australia、Newsmax、Dubai One、Al Jazeera、NHK World、Arirang、KBS World、Bloomberg Asia、Bloomberg Originals、CBN News、GB News、RT News、TBS、FXX、A&E、AMC、Star、BET、TNT、Red Bull TV、RT Documentary、TRT World、Taiwan Plus、ION Plus、ION、Love Nature、Disney International、Fashion TV、Fight Network、Star Movies、Movies Now、BBC America、Cinemax East、HBO、HBO Plus、HBO West、HBO 2、HBO Family、HBO Signature、&Flix HD、Wild Earth、Wild Planet、Clarity 4K、Comedy Central、Nickelodeon、History、Paramount Network、HBO Xtreme、Cinemax、Rakuten Comedy、Rakuten Family、Rakuten Action、Sky Sport、Stadium、FIFA+、Trace Sports、BBC Earth、BBC Food、BBC Home、NBA TV、Universal Kids、Nat Geo、NASA、Start TV、The Weather Channel、Pop、WE TV、Me TV、SNY、Documentary+、Tastemade、MovieSphere、hTravelxp
@@ -61,20 +61,11 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 
 
 # \[更新日志]
-2024.04.13
+2024.04.14
 
-    替换源，山西电信源失效，替换至新地址。
-2024.04.12
+    增加源：SMC中录动漫、星空音乐台、四川-乡村/妇女儿童/影视文艺/经济/新闻/文化旅游；
+    四川组播源失效，更新地址。
 
-    增加文件：原神4.0系列前瞻节目。
-2024.04.11
-
-    增加源：澳视澳门；
-    替换源：星空卫视。
-2024.04.10
-
-    增加源：湖南-经视、都市、爱晚、娱乐、国际、电影、电视剧、教育，台湾-TVBS新闻台；
-    添加备用线路。
 
 [更多日志](Update%20log.md ':include')
 # \[特别感谢]
