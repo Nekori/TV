@@ -31,8 +31,7 @@ CGTN-英语、记录、俄语、法语、西语、阿语、CCTV+1、CCTV+2
 吉林-四平、延边  
 黑龙江-影视、新闻法制、文体、少儿、农业科教、都市、哈尔滨：新闻综合、影视、生活、齐齐哈尔：新闻综合、经济法制、佳木斯新闻综合、鸡西新闻综合、伊春新闻综合、鹤岗新闻综合、鸡西安全生活、大庆新闻综合、牡丹江新闻综合  
 河南-武术世界、梨园、国学、文物宝库  
-上海-教育、都市、第一财经、ICS、东方购物、法治天下、新闻综合、纪实人文  
-上海SITV：动漫秀场、游戏风云、法制天地、五星体育、生活时尚、都市剧场、欢笑剧场、东方财经、金色学堂、纪实人文、乐游、魅力足球、热播剧场  
+上海-教育、都市、第一财经、ICS、东方购物、法治天下、新闻综合、纪实人文
 香港-环球电视台  
 湖南-茶、垂钓、金鹰纪实、经视、都市、爱晚、娱乐、国际、电影、电视剧、教育  
 贵州-天元围棋  
@@ -44,7 +43,7 @@ CGTN-英语、记录、俄语、法语、西语、阿语、CCTV+1、CCTV+2
 广东-南国都市
 
 ## \[数字电视]
-Bread TV面包台、NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、SMC中录动漫
+Bread TV面包台、NewTV爱情喜剧、NewTV超级电视剧、NewTV超级电影、NewTV超级体育、NewTV超级综艺、NewTV潮妈辣婆、NewTV东北热剧、NewTV古装剧场、NewTV欢乐剧场、NewTV家庭剧场、NewTV金牌综艺、NewTV惊悚悬疑、NewTV精品纪录、NewTV精品体育、NewTV军事评论、NewTV农业致富、NewTV武博世界、NewTV怡伴健康、NewTV中国功夫、SMC中录动漫、上海SITV：动漫秀场、游戏风云、法制天地、五星体育、生活时尚、都市剧场、欢笑剧场、东方财经、金色学堂、乐游、魅力足球、热播剧场
 
 ## \[国际]
 Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播公司、CNA新加坡亚洲新闻台、ABC News Live美国广播公司新闻直播、Live Now FOX美国福克斯新闻、NBC News Now美国全国广播公司新闻、Sky News英国天空新闻台、ABC7 Bay Area、CBS News Bay Area、Euronews Live、AXS TV Now 、ABC Australia、Newsmax、Dubai One、Al Jazeera、NHK World、Arirang、KBS World、Bloomberg Asia、Bloomberg Originals、CBN News、GB News、RT News、TBS、FXX、A&E、AMC、Star、BET、TNT、Red Bull TV、RT Documentary、TRT World、Taiwan Plus、ION Plus、ION、Love Nature、Disney International、Fashion TV、Fight Network、Star Movies、Movies Now、BBC America、Cinemax East、HBO、HBO Plus、HBO West、HBO 2、HBO Family、HBO Signature、&Flix HD、Wild Earth、Wild Planet、Clarity 4K、Comedy Central、Nickelodeon、History、Paramount Network、HBO Xtreme、Cinemax、Rakuten Comedy、Rakuten Family、Rakuten Action、Sky Sport、Stadium、FIFA+、Trace Sports、BBC Earth、BBC Food、BBC Home、NBA TV、Universal Kids、Nat Geo、NASA、Start TV、The Weather Channel、Pop、WE TV、Me TV、SNY、Documentary+、Tastemade、MovieSphere、hTravelxp
@@ -61,6 +60,10 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 
 
 # \[更新日志]
+2024.04.15
+
+    增加源：四川-峨眉电影；
+    增加备用线路，更新央视频道号，SITV转移至数字电视分组。
 2024.04.14
 
     增加源：SMC中录动漫、星空音乐台、四川-乡村/妇女儿童/影视文艺/经济/新闻/文化旅游；
