@@ -1,20 +1,44 @@
 #EXTM3U
-#EXTINF:-1,四川-熊猫新闻
-http://125.71.58.134:6066/udp/239.93.1.112:5140
-#EXTINF:-1,四川-熊猫体娱
-http://125.71.58.134:6066/udp/239.93.0.94:5140
-#EXTINF:-1,四川-熊猫少儿
-http://125.71.58.134:6066/udp/239.93.1.189:5140
-#EXTINF:-1,四川-熊猫影院
-http://125.71.58.134:6066/udp/239.93.0.214:5140
-#EXTINF:-1,四川-睛彩四川
-http://125.71.58.134:6066/udp/239.93.0.126:5140
+#EXTINF:-1 tvg-name="//39.134.65.162/PLTV" tvg-logo="https://live.fanmingming.com/tv///39.134.65.162/PLTV.png",//39.134.65.162/PLTV
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://39.134.65.162/PLTV/88888888/224/3221225816/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://39.134.65.162/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-name="//PLTV ottrrs.hl.chinamobile.com/PLTV" tvg-logo="https://live.fanmingming.com/tv///PLTV ottrrs.hl.chinamobile.com/PLTV.png",//PLTV ottrrs.hl.chinamobile.com/PLTV
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:-1 tvg-name="//黑龙江联通组播   221.212.214.109:8902    178    【已失效】" tvg-logo="https://live.fanmingming.com/tv///黑龙江联通组播   221.212.214.109:8902    178    【已失效】.png",//黑龙江联通组播   221.212.214.109:8902    178    【已失效】
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://221.212.214.109:8902/udp/229.58.190.72:5000
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://221.212.214.109:8902/udp/229.58.190.153:5000
+#EXTINF:-1 tvg-name="// 山西省太原市组播 山西电信  110.178.52.190:8085   117" tvg-logo="https://live.fanmingming.com/tv/// 山西省太原市组播 山西电信  110.178.52.190:8085   117.png",// 山西省太原市组播 山西电信  110.178.52.190:8085   117
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://110.178.52.190:8085/udp/239.1.1.7:8007
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://110.178.52.190:8085/udp/239.1.1.8:8008
+#EXTINF:-1 tvg-name="//湖南省衡阳市酒店  222.241.154.37:9901     55" tvg-logo="https://live.fanmingming.com/tv///湖南省衡阳市酒店  222.241.154.37:9901     55.png",//湖南省衡阳市酒店  222.241.154.37:9901     55
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
+#EXTINF:-1 tvg-name="//四川省成都市组播  四川电信    125.71.58.134:6066/udp  333" tvg-logo="https://live.fanmingming.com/tv///四川省成都市组播  四川电信    125.71.58.134:6066/udp  333.png",//四川省成都市组播  四川电信    125.71.58.134:6066/udp  333
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1 综合
+http://125.71.58.134:6066/udp/239.93.0.184:5140
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2 财经
+http://125.71.58.134:6066/udp/239.93.1.23:6000
+
+#EXTM3U
 #EXTINF:-1,四川-金熊猫卡通
 http://125.71.58.134:6066/udp/239.93.1.172:5140
-#EXTINF:-1,四川-熊猫频道
-http://125.71.58.134:6066/udp/239.93.0.211:9148
-#EXTINF:-1,四川-熊猫爱生活
-http://125.71.58.134:6066/udp/239.93.1.190:5140
 #EXTINF:-1,四川-大爱四川
 http://125.71.58.134:6066/udp/239.93.1.110:5140
 #EXTINF:-1,四川-大爱旅游
