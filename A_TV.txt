@@ -143,7 +143,7 @@ CCTV-13 新闻,http://118.114.187.92:8000/udp/239.93.0.66:5140
 CCTV-14 少儿,http://118.114.187.92:8000/udp/239.93.1.29:6000
 CCTV-15 音乐,http://118.114.187.92:8000/udp/239.93.0.103:5140
 CCTV-17 农业农村,http://118.114.187.92:8000/udp/239.93.0.92:5140
-CCTV-5＋,http://118.114.187.92:8000/udp/239.93.1.36:8004
+CCTV-5+ 体育赛事,http://118.114.187.92:8000/udp/239.93.1.36:8004
 CCTV-高尔夫·网球,http://118.114.187.92:8000/udp/239.93.1.54:5140
 CCTV-13 新闻,http://118.114.187.92:8000/udp/239.93.1.251:8224
 CCTV-文化精品,http://118.114.187.92:8000/udp/239.93.42.47:5140
@@ -153,8 +153,8 @@ CETV-2,http://118.114.187.92:8000/udp/239.93.0.113:5140
 CETV-4,http://118.114.187.92:8000/udp/239.93.0.50:5140
 CCTV-13 新闻,http://118.114.187.92:8000/udp/239.93.1.112:5140
 CCTV-8 电视剧,http://118.114.187.92:8000/udp/239.93.0.203:9072
-CGTN西语,http://118.114.187.92:8000/udp/239.93.42.49:5140
-CGTN法语,http://118.114.187.92:8000/udp/239.93.42.50:5140
+CGTN-西语,http://118.114.187.92:8000/udp/239.93.42.49:5140
+CGTN-法语,http://118.114.187.92:8000/udp/239.93.42.50:5140
 CHTV-百姓健康,http://118.114.187.92:8000/udp/239.93.42.35:5140
 CCTV-怀旧剧场,http://118.114.187.92:8000/udp/239.93.1.198:5140
 CCTV-第一剧场,http://118.114.187.92:8000/udp/239.93.1.197:5140
@@ -711,6 +711,14 @@ CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist
 山东-农科频道,https://livealone302.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
 山东-文旅频道,https://livealone302.iqilu.com/iqilu/yspdhjOF03kn.m3u8
 山东-少儿频道,https://livealone302.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=f1b16a3a3866dafecb94ec2bb4160e58
+河北-经济生活,http://tv.pull.hebtv.com/jishi/jingjishenghuo.m3u8?t=2510710360&k=878ace626abc063571a3ddff9ec396a3
+河北-农民,http://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=2510710360&k=75118c17760542fe4385e93cc4f03d38
+河北-都市,http://tv.pull.hebtv.com/jishi/dushipindao.m3u8?t=2510710360&k=4380da13735a230c080ce8ff404033af
+河北-影视剧,http://tv.pull.hebtv.com/zhibo/yingshijupindao.m3u8?t=2510710360&k=2d3ada9117a7f1c3f7c11b67671bbe3c
+河北-少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
+河北-公共,http://tv.pull.hebtv.com/jishi/gonggongpindao.m3u8?t=2510710360&k=6c7672b94bb3940303bd8f5b81d4bdb6
+河北-三佳购物,http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e
 香港-環球电视台,https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 广东-南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 浙江-钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8

@@ -65,6 +65,10 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 [txt转m3u](https://live.fanmingming.com/txt2m3u/)，
 [txt与m3u互转](http://epg.112114.eu.org/cjtrans)
 # \[更新日志]
+2024.08.03
+
+    增加河北静态源：河北卫视/经济生活/农民/都市/影视剧/少儿科教/公共/三佳购物；
+    频道名称修订。
 2024.07.21
 
     顺序调整，查验失效线路。
