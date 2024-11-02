@@ -1391,6 +1391,11 @@ BBC Radio 5 Live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_
 BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 
 歌手2018,#genre#
+9、2018.03.16,https://vip.lz-cdn10.com/20220408/1018_b360c59f/1200k/hls/mixed.m3u8
+10、2018.03.23,https://vip.lz-cdn11.com/20220410/1136_e83040e5/1200k/hls/mixed.m3u8
+11、2018.03.30,https://vip.lz-cdn10.com/20220408/1019_fee794a0/1200k/hls/mixed.m3u8
+12、2018.04.06,https://vip.lz-cdn10.com/20220408/1020_325fa202/1200k/hls/mixed.m3u8
+13、2018.04.13,https://vip.lz-cdn10.com/20220408/1021_21487971/1200k/hls/mixed.m3u8
 1、2018.01.12,https://vip.lz-cdn11.com/20220410/1135_d5ea6921/1200k/hls/mixed.m3u8
 2、2018.01.19,https://vip.lz-cdn10.com/20220408/1008_87a1a9f1/1200k/hls/mixed.m3u8
 3、2018.01.26,https://vip.lz-cdn10.com/20220408/1009_a76edfa1/1200k/hls/mixed.m3u8
@@ -1399,8 +1404,3 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 6、2018.02.16,https://vip.lz-cdn10.com/20220408/1013_95d6f0e3/1200k/hls/mixed.m3u8
 7、2018.02.23,https://vip.lz-cdn10.com/20220408/1015_426db6f6/1200k/hls/mixed.m3u8
 8、2018.03.09,https://vip.lz-cdn10.com/20220408/1016_2d9df722/1200k/hls/mixed.m3u8
-9、2018.03.16,https://vip.lz-cdn10.com/20220408/1018_b360c59f/1200k/hls/mixed.m3u8
-10、2018.03.23,https://vip.lz-cdn11.com/20220410/1136_e83040e5/1200k/hls/mixed.m3u8
-11、2018.03.30,https://vip.lz-cdn10.com/20220408/1019_fee794a0/1200k/hls/mixed.m3u8
-12、2018.04.06,https://vip.lz-cdn10.com/20220408/1020_325fa202/1200k/hls/mixed.m3u8
-13、2018.04.13,https://vip.lz-cdn10.com/20220408/1021_21487971/1200k/hls/mixed.m3u8
