@@ -62,7 +62,7 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 ## \[广播]
 动感音乐台、格莱美音乐台、潮流音乐、民谣蓝调、舞迷心窍、警广之声、心灵音乐馆、80后音乐、经典FM、第1财经、北京交通广播、北京新闻广播、北京文艺广播、北京音乐广播、北京城市广播、北京体育广播、北京经典调频、CRI轻松调频、CRI华语环球、CRI环球资讯 、CRI南海之声、CRI英语资讯、CRI世界华声、CNR文艺之声、CNR交通广播、CNR中国之声、CNR经济之声、CNR经典音乐 、CNR神州之声、CNR阅读之声、CNR乡村之声、CNR湾区之声、CNR老年之声、CNR台海之声、CNR音乐之声、台中广播电台、湖南旅游广播、湖南文艺广播、上海故事广播、四川文艺广播、山西文艺广播 、江苏文艺广播、江苏音乐广播、湖南音乐之声、江苏故事广播、广东音乐之声、Hit FM劲曲、南京音乐广播、河北汽车音乐、陕西音乐广播、广州汽车音乐、深圳音乐广播、宜昌音生广播、江西故事广播、上海音乐广播、上海音乐电台、Love Radio、上海流行音乐、Cool Radio、河北文艺广播、全国广播、天籁古典、天籁国风、天籁之音 Hi-Fi  、天籁经典流行、摇滚天空、国乐悠扬、有声文摘、安全百科、潮流音悦台、80后音悦台、经典FM、民谣蓝调、民谣音乐台、BCC中广流行、BCC中广音乐、CityFM台南知音、美国之音、One FM、BCC中广新闻 、Hao FM、Gold FM、Money FM、Yes FM、Kiss FM、Love FM、Classic FM、Capital FM、NPR News、VOA环球英语、Power FM、RTI中央广播、半岛新闻、CNA亚洲新闻、LBC UK、LBC News、Times Radio、BBC News、CNN News、News Radio UK、BBC Radio 1、BBC Radio 1 Relax、BBC Radio 1 Dance、BBC Radio 1Xtra、BBC Radio 2、BBC Radio 3、BBC Radio 4、BBC Radio 4 Extra、BBC Radio 5 Live、BBC Radio 6 Music
 
-## \[END]
+## \[其它]
 一些自己正在看的剧集或综艺。
 
 
@@ -70,31 +70,8 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 [txt转m3u](https://live.fanmingming.com/txt2m3u/)，
 [txt与m3u互转](http://epg.112114.eu.org/cjtrans)
 # \[更新日志]
-2025.01.28
 
-    修正两个频道：哈哈炫动，军事纪实。
-2024.11.10++
-
-    清理失效源：黑龙联通酒店源、黑龙电信酒店源、黑龙联通组播源、黑龙移动源、山西电信组播源。
-2024.11.10+
-
-    增加：亚洲卫视。
-    增加分组：历年春晚。
-2024.11.10
-
-    增加：央视网-云南保山瓦窑镇瓦窑码头、云南普洱澜沧县景迈山、云南普洱无量山羊山瀑布；
-    修正：CCTV5+分类名称，央视网-云南丽江玉龙雪山已经变更为内蒙古赛罕区花海之约；
-    更新：重庆联通组播源；
-    清理失效源：央视网-黑龙江牡丹江市镜泊湖、浙江杭州千岛湖。
-2024.11.02
-
-    调整文件；
-    识别失效源，准备替换。
-2024.11.01
-
-    增加综艺：歌手2018。
-
-[更多日志](Update%20log.md ':include')
+[更新日志](Update%20log.md ':include')
 # \[特别感谢]
 [live.fanmingming.com](https://live.fanmingming.com)提供的工具  
 [epg.112114.eu.org](https://epg.112114.eu.org)提供的接口
