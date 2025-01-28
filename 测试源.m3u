@@ -1,83 +1,49 @@
-#EXTM3U
-#EXTINF:-1,CCTV-1 综合
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="//测试" tvg-logo="https://live.fanmingming.cn/tv///测试.png",//测试
+undefined
+#EXTINF:-1 tvg-name="//PLTV ottrrs.hl.chinamobile.com/PLTV" tvg-logo="https://live.fanmingming.cn/tv///PLTV ottrrs.hl.chinamobile.com/PLTV.png",//PLTV ottrrs.hl.chinamobile.com/PLTV
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://61.138.54.155:2233/hls/8/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://112.101.78.50:9901/tsfile/live/0001_1.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://bxny.667789.cn:55055/udp/229.58.190.72:5000
-#EXTINF:-1,CCTV-1 综合
-http://39.134.65.162/PLTV/88888888/224/3221225816/index.m3u8
-#EXTINF:-1,CCTV-1 综合
-http://110.178.52.190:8085/udp/239.1.1.7:8007
-#EXTINF:-1,CCTV-1 综合
+#EXTINF:-1 tvg-name="//湖南省衡阳市酒店  222.241.154.37:9901     55" tvg-logo="https://live.fanmingming.cn/tv///湖南省衡阳市酒店  222.241.154.37:9901     55.png",//湖南省衡阳市酒店  222.241.154.37:9901     55
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 综合
 http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
-#EXTINF:-1,CCTV-1 综合
+#EXTINF:-1 tvg-name="//四川省成都市组播  四川电信    118.113.157.64:4022/udp  333    【失效】" tvg-logo="https://live.fanmingming.cn/tv///四川省成都市组播  四川电信    118.113.157.64:4022/udp  333    【失效】.png",//四川省成都市组播  四川电信    118.113.157.64:4022/udp  333    【失效】
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 综合
 http://118.113.157.64:4022/udp/239.93.0.184:5140
-#EXTINF:-1,CCTV-1 综合
-http://211.158.152.143:8003/udp/225.0.4.74:7980
-#EXTINF:-1,CCTV-1 综合
+#EXTINF:-1 tvg-name="//重庆联通组播    113.206.155.235:8003/udp 77" tvg-logo="https://live.fanmingming.cn/tv///重庆联通组播    113.206.155.235:8003/udp 77.png",//重庆联通组播    113.206.155.235:8003/udp 77
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 综合
+http://113.206.155.235:8003/udp/225.0.4.74:7980
+#EXTINF:-1 tvg-name="//湖南电信  118.254.156.78:8888 282 【失效】" tvg-logo="https://live.fanmingming.cn/tv///湖南电信  118.254.156.78:8888 282 【失效】.png",//湖南电信  118.254.156.78:8888 282 【失效】
+undefined
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV-1 综合
 http://118.254.156.78:8888/udp/239.76.245.51:1234
-#EXTINF:-1,爱经典
+#EXTINF:-1 tvg-name="//118.113.157.64:4022/udp" tvg-logo="https://live.fanmingming.cn/tv///118.113.157.64:4022/udp.png",//118.113.157.64:4022/udp
+undefined
+#EXTINF:-1 tvg-name="爱经典" tvg-logo="https://live.fanmingming.cn/tv/爱经典.png",爱经典
 http://118.113.157.64:4022/udp/239.93.42.13:5140
-#EXTINF:-1,爱青春
+#EXTINF:-1 tvg-name="爱青春" tvg-logo="https://live.fanmingming.cn/tv/爱青春.png",爱青春
 http://118.113.157.64:4022/udp/239.93.42.16:5140
-#EXTINF:-1,爱都市
+#EXTINF:-1 tvg-name="爱都市" tvg-logo="https://live.fanmingming.cn/tv/爱都市.png",爱都市
 http://118.113.157.64:4022/udp/239.93.42.15:5140
-#EXTINF:-1,少儿天地
+#EXTINF:-1 tvg-name="少儿天地" tvg-logo="https://live.fanmingming.cn/tv/少儿天地.png",少儿天地
 http://118.113.157.64:4022/udp/239.93.42.34:5140
-#EXTINF:-1,爱电竞
+#EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://live.fanmingming.cn/tv/爱电竞.png",爱电竞
 http://118.113.157.64:4022/udp/239.93.42.19:5140
-#EXTINF:-1,爱宠宠物
+#EXTINF:-1 tvg-name="爱宠宠物" tvg-logo="https://live.fanmingming.cn/tv/爱宠宠物.png",爱宠宠物
 http://118.113.157.64:4022/udp/239.93.42.32:5140
-#EXTINF:-1,环球旅游
+#EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://live.fanmingming.cn/tv/环球旅游.png",环球旅游
 http://118.113.157.64:4022/udp/239.93.42.31:5140
-#EXTINF:-1,来钓鱼吧
+#EXTINF:-1 tvg-name="来钓鱼吧" tvg-logo="https://live.fanmingming.cn/tv/来钓鱼吧.png",来钓鱼吧
 http://118.113.157.64:4022/udp/239.93.42.8:5140
-#EXTINF:-1,麻辣体育
+#EXTINF:-1 tvg-name="麻辣体育" tvg-logo="https://live.fanmingming.cn/tv/麻辣体育.png",麻辣体育
 http://118.113.157.64:4022/udp/239.93.42.2:5140
-#EXTINF:-1,绚影4K
+#EXTINF:-1 tvg-name="绚影4K" tvg-logo="https://live.fanmingming.cn/tv/绚影4K.png",绚影4K
 http://118.113.157.64:4022/udp/239.93.42.33:5140
-#EXTINF:-1,乐龄学堂
+#EXTINF:-1 tvg-name="乐龄学堂" tvg-logo="https://live.fanmingming.cn/tv/乐龄学堂.png",乐龄学堂
 http://118.113.157.64:4022/udp/239.93.1.179:5140
-#EXTINF:-1,亲子趣学4K
+#EXTINF:-1 tvg-name="亲子趣学4K" tvg-logo="https://live.fanmingming.cn/tv/亲子趣学4K.png",亲子趣学4K
 http://118.113.157.64:4022/udp/239.93.1.191:5140
-#EXTINF:-1,云南卫视
-http://118.113.157.64:4022/udp/239.93.0.174:5140
-#EXTINF:-1,动画番剧
-http://118.113.157.64:4022/udp/239.93.1.177:5140
-#EXTINF:-1,综艺咖秀
-http://118.113.157.64:4022/udp/239.93.1.175:5140
-#EXTINF:-1,红色经典
-http://118.113.157.64:4022/udp/239.93.1.176:5140
-#EXTINF:-1,4K乐享超清
-http://118.113.157.64:4022/udp/239.93.0.43:5140
-#EXTINF:-1,中国体育1
-http://118.113.157.64:4022/udp/239.93.42.25:5140
-#EXTINF:-1,中国体育2
-http://118.113.157.64:4022/udp/239.93.42.26:5140
-#EXTINF:-1,中国体育3
-http://118.113.157.64:4022/udp/239.93.42.27:5140
-#EXTINF:-1,直播室1
-http://118.113.157.64:4022/udp/239.93.1.180:5140
-#EXTINF:-1,直播室2
-http://118.113.157.64:4022/udp/239.93.1.181:5140
-#EXTINF:-1,直播室3
-http://118.113.157.64:4022/udp/239.93.1.182:5140
-#EXTINF:-1,直播室4
-http://118.113.157.64:4022/udp/239.93.1.183:5140
-#EXTINF:-1,直播室5
-http://118.113.157.64:4022/udp/239.93.1.184:5140
-#EXTINF:-1,直播室6
-http://118.113.157.64:4022/udp/239.93.1.185:5140
-#EXTINF:-1,直播室7
-http://118.113.157.64:4022/udp/239.93.1.186:5140
-#EXTINF:-1,直播室8
-http://118.113.157.64:4022/udp/239.93.1.187:5140
-#EXTINF:-1,红原日干乔
-http://118.113.157.64:4022/udp/239.93.0.178:5140
-#EXTINF:-1,红原月亮湾
-http://118.113.157.64:4022/udp/239.93.0.209:5140
-#EXTINF:-1,电信导视3
-http://118.113.157.64:4022/udp/239.93.0.110:5140

@@ -70,6 +70,9 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 [txt转m3u](https://live.fanmingming.com/txt2m3u/)，
 [txt与m3u互转](http://epg.112114.eu.org/cjtrans)
 # \[更新日志]
+2025.01.28
+
+    修正两个频道：哈哈炫动，军事纪实。
 2024.11.10++
 
     清理失效源：黑龙联通酒店源、黑龙电信酒店源、黑龙联通组播源、黑龙移动源、山西电信组播源。

@@ -358,7 +358,7 @@ CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
 湖南-教育,http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 
 //118.113.157.64:4022/udp
-上海-炫动卡通,http://118.113.157.64:4022/udp/239.93.0.173:5140
+上海-哈哈炫动,http://118.113.157.64:4022/udp/239.93.0.173:5140
 广东-嘉佳卡通,http://118.113.157.64:4022/udp/239.93.0.246:5140
 上海-纪实人文,http://118.113.157.64:4022/udp/239.93.1.137:5140
 湖南-金鹰纪实,http://118.113.157.64:4022/udp/239.93.0.130:5140
@@ -504,7 +504,7 @@ NewTV金牌综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 NewTV精品纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 NewTV军旅剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-NewTV军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
+NewTV军事纪实,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 NewTV农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 NewTV炫舞未来,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 NewTV中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
@@ -550,7 +550,7 @@ SiTV-9 生活时尚,http://118.113.157.64:4022/udp/239.93.0.106:5140
 SiTV-2 游戏风云,http://118.113.157.64:4022/udp/239.93.0.136:5140
 足球-足球之夜,http://118.113.157.64:4022/udp/239.93.0.197:9040
 墨宝-美术里的中国,http://118.113.157.64:4022/udp/239.93.0.215:9132
-军事-军事纪实,http://118.113.157.64:4022/udp/239.93.0.204:9076
+NewTV军事纪实,http://118.113.157.64:4022/udp/239.93.0.204:9076
 解密-实验现场,http://118.113.157.64:4022/udp/239.93.0.199:9048
 地理-人与自然,http://118.113.157.64:4022/udp/239.93.0.200:9052
 SiTV-12 东方财经,http://118.113.157.64:4022/udp/239.93.1.165:5140
@@ -926,3 +926,6 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
 春晚2023网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
 春晚2023总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
+
+电影,#genre#
+孝子贤孙伺候着 陈佩斯,https://vip.lzcdn2.com/20220509/5970_4b05aec9/1200k/hls/mixed.m3u8
