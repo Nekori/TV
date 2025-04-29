@@ -74,5 +74,4 @@ Love Nrture、俄罗斯中文、CNN美国有线电视新闻网、BBC英国广播
 
 [更新日志](Update%20log.md ':include')
 # \[特别感谢]
-[live.fanmingming.com](https://live.fanmingming.com)提供的工具  
-[epg.112114.eu.org](https://epg.112114.eu.org)提供的接口
+[live.fanmingming.com](https://live.fanmingming.com)提供的工具

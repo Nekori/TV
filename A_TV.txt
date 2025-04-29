@@ -578,72 +578,14 @@ IPTV8+,http://113.206.155.235:8003/udp/225.0.4.54:7980
 
 
 直播,#genre#
-//电影
-成龙,http://zby.xjqxz.top/cldy/live.m3u8
-周星驰,http://zby.xjqxz.top/live12/live.m3u8
-李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
-//斗鱼电影
-斗鱼-【神乐】华语经典电影,http://epg.112114.eu.org/douyu/85894
-斗鱼-【神乐】星爷电影 喜剧经典,http://epg.112114.eu.org/douyu/122402
-斗鱼-【欧美】电影,http://epg.112114.eu.org/douyu/20415
-斗鱼-【漫威】主线最佳观影顺序,http://epg.112114.eu.org/douyu/6140589
-斗鱼-【漫威】宇宙主线,http://epg.112114.eu.org/douyu/11673725
-斗鱼-【科幻】电影,http://epg.112114.eu.org/douyu/12010522
-斗鱼-特辑电影院,http://epg.112114.eu.org/douyu/3637778
-斗鱼-蓉城电影院,http://epg.112114.eu.org/douyu/11137425
-斗鱼-欧美大片,http://epg.112114.eu.org/douyu/2793084
-斗鱼-【蓝翔】华语经典电影,http://epg.112114.eu.org/douyu/276200
-斗鱼-【霍格沃茨】,http://epg.112114.eu.org/douyu/8814650
-斗鱼-【豆瓣高分】史上最佳影片大放送,http://epg.112114.eu.org/douyu/8770422
-斗鱼-【奇光】港鬼片,http://epg.112114.eu.org/douyu/8009547
-
-//影视剧
-斗鱼-【小宇】经典影视剧,http://epg.112114.eu.org/douyu/54945
-斗鱼-经典剧作,http://epg.112114.eu.org/douyu/11922242
-斗鱼-电视剧电影,http://epg.112114.eu.org/douyu/9838414
-//电视剧·网剧
-斗鱼-万合天宜,http://epg.112114.eu.org/douyu/9220456
-斗鱼-万合鲜肉老师,http://epg.112114.eu.org/douyu/9815091
-斗鱼-地下交通站,http://epg.112114.eu.org/douyu/1874054
-斗鱼-炊事班的故事,http://epg.112114.eu.org/douyu/8387899
-斗鱼-我和僵尸有个约会,http://epg.112114.eu.org/douyu/9470198
-斗鱼-封神榜 陈浩民,http://epg.112114.eu.org/douyu/12056846
-斗鱼-洗冤录,http://epg.112114.eu.org/douyu/11606410
-斗鱼-大宋提刑官,http://epg.112114.eu.org/douyu/11678039
-斗鱼-金庸武侠、古装神剧,http://epg.112114.eu.org/douyu/338759
-
-//动漫
-斗鱼-名侦探柯南,http://epg.112114.eu.org/douyu/11954507
-斗鱼-【动漫】超燃怀旧经典,http://epg.112114.eu.org/douyu/1174353
-斗鱼-海绵宝宝1 陈浩,http://epg.112114.eu.org/douyu/1569773
-斗鱼-海绵宝宝2 陈浩,http://epg.112114.eu.org/douyu/7528160
-斗鱼-海绵宝宝3 陈浩,http://epg.112114.eu.org/douyu/11922297
-斗鱼-海绵宝宝4 陈浩,http://epg.112114.eu.org/douyu/11595245
-斗鱼-犬夜叉 国语,http://epg.112114.eu.org/douyu/11906591
-斗鱼-【动漫】皮克斯、Conan,http://epg.112114.eu.org/douyu/7620081
-
-//斗鱼喜剧
-斗鱼-经典小品相声,http://epg.112114.eu.org/douyu/9273031
-斗鱼-陈佩斯喜剧放映,http://epg.112114.eu.org/douyu/9286868
-斗鱼-赵本山经典小品,http://epg.112114.eu.org/douyu/9817716
-斗鱼-辽视欢乐大集锦,http://epg.112114.eu.org/douyu/9403712
-斗鱼-搞笑天堂岛,http://epg.112114.eu.org/douyu/6916081
-//斗鱼影视解说
-斗鱼-小片片说大片,http://epg.112114.eu.org/douyu/4258555
-斗鱼-牛叔说电影,http://epg.112114.eu.org/douyu/2758565
-斗鱼-虫哥说电影,http://epg.112114.eu.org/douyu/8915074
-斗鱼-楠者电影,http://epg.112114.eu.org/douyu/9485398
-斗鱼-1900影剧室,http://epg.112114.eu.org/douyu/7796193
-斗鱼-叶尘说电影,http://epg.112114.eu.org/douyu/9252442
-斗鱼-口音贼重的动漫解说,http://epg.112114.eu.org/douyu/9734098
-
 //B站
 B站-怀旧动画片放映厅,https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
 B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
 B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
-B站-O爱喝牛奶的面包O 钢琴,https://d1--cn-gotcha04.bilivideo.com/live-bvc/178540/live_34228844_59589188.flv
+B站-O爱喝牛奶的面包O 钢琴,https://d1--cn-gotcha07.bilivideo.com/live-bvc/112079/live_34228844_59589188.flv?expires=1745936889&len=0&oi=1021032916&pt=web&qn=10000&trid=100069c0ba56c36af6e07660f803a06810d3&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha07&sign=800fd48540bbb027b72319adbebb9594&site=4141d0ddaa08affea88c22ce1ebd3c9e&free_type=0&mid=1669280&sche=ban&trace=32&isp=cu&rg=NorthEast&pv=Heilongjiang&long_ab_id=45&info_source=origin&suffix=origin&long_ab_flag=live_default_longitudinal&pp=srt&long_ab_flag_value=test&ld=yllg&hdr_type=0&sk=06975cbb839f6f1765d51a65ffb2f3c9&sl=1&hot_cdn=0&origin_bitrate=159605&expected_qn=400&deploy_env=prod&strategy_ids=35&strategy_types=0&source=puv3_onetier&strategy_version=latest&strategy_id=35&score=1&strategy_type=0&codec=0&p2p_type=1&vd=bc&src=puv3&order=2
 B站-你的影月月 游戏,https://cn-sdqd-cu-01-09.bilivideo.com/live-bvc/345365/live_431073645_7111750_4000/index.m3u8
 B站-大锤RUNKMD 防御性驾驶,https://d1--cn-gotcha209.bilivideo.com/live-bvc/615068/live_22649032_2933202_2500/index.m3u8
+B站-抽风Crazy 游戏,https://cn-jlcc-cu-03-06.bilivideo.com/live-bvc/327339/live_2728123_1356401_2500/index.m3u8
 
 
 
