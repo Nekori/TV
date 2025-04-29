@@ -641,6 +641,11 @@ IPTV8+,http://113.206.155.235:8003/udp/225.0.4.54:7980
 B站-怀旧动画片放映厅,https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
 B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
 B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
+B站-O爱喝牛奶的面包O 钢琴,https://d1--cn-gotcha04.bilivideo.com/live-bvc/178540/live_34228844_59589188.flv
+B站-你的影月月 游戏,https://cn-sdqd-cu-01-09.bilivideo.com/live-bvc/345365/live_431073645_7111750_4000/index.m3u8
+B站-大锤RUNKMD 防御性驾驶,https://d1--cn-gotcha209.bilivideo.com/live-bvc/615068/live_22649032_2933202_2500/index.m3u8
+
+
 
 央视网,#genre#
 //iPanda
