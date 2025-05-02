@@ -579,15 +579,11 @@ IPTV8+,http://113.206.155.235:8003/udp/225.0.4.54:7980
 
 直播,#genre#
 //B站
-B站-怀旧动画片放映厅,https://cn-nmghhht-cu-01-09.bilivideo.com/live-bvc/847959/live_1391500233_48495228/index.m3u8
-B站-哈啤分社 相声直播,https://cn-nmghhht-cu-01-10.bilivideo.com/live-bvc/805550/live_33208236_7002161_2500/index.m3u8
-B站-刘宝瑞相声直播,https://xy221x209x106x118xy.mcdn.bilivideo.cn:486/live-bvc/634798/live_402787936_76427181_2500/index.m3u8
 B站-O爱喝牛奶的面包O 钢琴,https://d1--cn-gotcha07.bilivideo.com/live-bvc/112079/live_34228844_59589188.flv?expires=1745936889&len=0&oi=1021032916&pt=web&qn=10000&trid=100069c0ba56c36af6e07660f803a06810d3&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha07&sign=800fd48540bbb027b72319adbebb9594&site=4141d0ddaa08affea88c22ce1ebd3c9e&free_type=0&mid=1669280&sche=ban&trace=32&isp=cu&rg=NorthEast&pv=Heilongjiang&long_ab_id=45&info_source=origin&suffix=origin&long_ab_flag=live_default_longitudinal&pp=srt&long_ab_flag_value=test&ld=yllg&hdr_type=0&sk=06975cbb839f6f1765d51a65ffb2f3c9&sl=1&hot_cdn=0&origin_bitrate=159605&expected_qn=400&deploy_env=prod&strategy_ids=35&strategy_types=0&source=puv3_onetier&strategy_version=latest&strategy_id=35&score=1&strategy_type=0&codec=0&p2p_type=1&vd=bc&src=puv3&order=2
 B站-你的影月月 游戏,https://cn-sdqd-cu-01-09.bilivideo.com/live-bvc/345365/live_431073645_7111750_4000/index.m3u8
 B站-大锤RUNKMD 防御性驾驶,https://d1--cn-gotcha209.bilivideo.com/live-bvc/615068/live_22649032_2933202_2500/index.m3u8
 B站-抽风Crazy 游戏,https://cn-jlcc-cu-03-06.bilivideo.com/live-bvc/327339/live_2728123_1356401_2500/index.m3u8
-
-
+B站-央视网,https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/274660/live_222103174_4331333_bluray/index.m3u8
 
 央视网,#genre#
 //iPanda
@@ -599,20 +595,16 @@ iPanda-云南白马雪山自然保护区,https://gcwbndtxy.liveplay.myqcloud.com
 //央视网直播
 央视网-慢直播精选,https://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
 央视网-西藏日喀则珠穆朗玛峰,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-央视网-西藏拉萨布达拉宫,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
 央视网-西藏林芝岷山错高民宿,https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-央视网-新疆昌吉州天山天池风景区,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
-央视网-甘肃敦煌鸣沙山月牙泉,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-央视网-甘肃张掖七彩丹霞景区,https://gcalic.v.myalicdn.com/gc/lsdftyd_1/index.m3u8
+央视网-河北邯郸京娘湖,https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8
+央视网-西藏林芝鲁朗色季拉山,https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
 央视网-云南西双版纳千年古寨曼丢,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
 央视网-云南保山瓦窑镇瓦窑码头,https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8
 央视网-云南普洱澜沧县景迈山,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-央视网-云南普洱无量山羊山瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+央视网-江苏无锡鼋头渚,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
 央视网-云南德宏勐焕大金塔,https://gctxyc.liveplay.myqcloud.com/gc/dhyyqsm_1_md.m3u8
-央视网-四川乐山市峨眉山风景区,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
-央视网-内蒙古赛罕区花海之约,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-央视网-黑龙江牡丹江市镜泊湖,https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
-央视网-浙江杭州千岛湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8
+央视网-安徽黄山始信新道,https://gcalic.v.myalicdn.com/gc/emsarm_1/index.m3u8
+央视网-广东广州绿美白江湖,https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
 
 国际电视,#genre#
 //网页
