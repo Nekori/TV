@@ -579,11 +579,16 @@ IPTV8+,http://113.206.155.235:8003/udp/225.0.4.54:7980
 
 直播,#genre#
 //B站
-B站-O爱喝牛奶的面包O 钢琴,https://d1--cn-gotcha07.bilivideo.com/live-bvc/112079/live_34228844_59589188.flv?expires=1745936889&len=0&oi=1021032916&pt=web&qn=10000&trid=100069c0ba56c36af6e07660f803a06810d3&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha07&sign=800fd48540bbb027b72319adbebb9594&site=4141d0ddaa08affea88c22ce1ebd3c9e&free_type=0&mid=1669280&sche=ban&trace=32&isp=cu&rg=NorthEast&pv=Heilongjiang&long_ab_id=45&info_source=origin&suffix=origin&long_ab_flag=live_default_longitudinal&pp=srt&long_ab_flag_value=test&ld=yllg&hdr_type=0&sk=06975cbb839f6f1765d51a65ffb2f3c9&sl=1&hot_cdn=0&origin_bitrate=159605&expected_qn=400&deploy_env=prod&strategy_ids=35&strategy_types=0&source=puv3_onetier&strategy_version=latest&strategy_id=35&score=1&strategy_type=0&codec=0&p2p_type=1&vd=bc&src=puv3&order=2
+B站-央视网,https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/274660/live_222103174_4331333_bluray/index.m3u8
+B站-西宁野生动物园,https://c1--cn-gotcha208.bilivideo.com/live-bvc/144792/live_525328268_73331206_2500/index.m3u8
+B站-西宁野生动物园,https://cn-jlcc-cu-03-02.bilivideo.com/live-bvc/440333/live_525328268_73331206_2500/index.m3u8
 B站-你的影月月 游戏,https://cn-sdqd-cu-01-09.bilivideo.com/live-bvc/345365/live_431073645_7111750_4000/index.m3u8
+B站-你的影月月 游戏,https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/658360/live_431073645_7111750_4000/index.m3u8
 B站-大锤RUNKMD 防御性驾驶,https://d1--cn-gotcha209.bilivideo.com/live-bvc/615068/live_22649032_2933202_2500/index.m3u8
 B站-抽风Crazy 游戏,https://cn-jlcc-cu-03-06.bilivideo.com/live-bvc/327339/live_2728123_1356401_2500/index.m3u8
-B站-央视网,https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/274660/live_222103174_4331333_bluray/index.m3u8
+B站-渗透之C君,https://d1--cn-gotcha209.bilivideo.com/live-bvc/605399/live_4162287_2085253_2500/index.m3u8
+B站-O爱喝牛奶的面包O 钢琴,https://cn-jlcc-cu-03-02.bilivideo.com/live-bvc/963554/live_34228844_59589188.flv
+B站-莴苣某人 游戏,https://d1--cn-gotcha209.bilivideo.com/live-bvc/296222/live_1773346_6792895_2500/index.m3u8
 
 央视网,#genre#
 //iPanda
