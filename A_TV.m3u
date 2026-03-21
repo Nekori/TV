@@ -1,6 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="//PLTV ottrrs.hl.chinamobile.com/PLTV" tvg-logo="https://live.fanmingming.com/tv///PLTV ottrrs.hl.chinamobile.com/PLTV.png" group-title="央视",//PLTV ottrrs.hl.chinamobile.com/PLTV
-undefined
+//PLTV ottrrs.hl.chinamobile.com/PLTV
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
@@ -45,8 +44,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1 tvg-name="CGTN-纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN-纪录.png" group-title="央视",CGTN-纪录
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-#EXTINF:-1 tvg-name="//湖南省衡阳市酒店  222.241.154.37:9901     55" tvg-logo="https://live.fanmingming.com/tv///湖南省衡阳市酒店  222.241.154.37:9901     55.png" group-title="央视",//湖南省衡阳市酒店  222.241.154.37:9901     55
-undefined
+//湖南省衡阳市酒店  222.241.154.37:9901     55
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
 http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV-2 财经
