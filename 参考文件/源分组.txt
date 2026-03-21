@@ -1,5 +1,33 @@
 🕘️更新时间,#genre#
 📺央视频道,#genre#
+CCTV-1 综合
+CCTV-2 财经
+CCTV-3 综艺
+CCTV-4 中文国际
+CCTV-5 体育
+CCTV-5+ 体育赛事
+CCTV-6 电影
+CCTV-7 国防军事
+CCTV-8 电视剧
+CCTV-9 纪录
+CCTV-10 科教
+CCTV-11 戏曲
+CCTV-12 社会与法
+CCTV-13 新闻
+CCTV-14 少儿
+CCTV-15 音乐
+CCTV-16 奥林匹克
+CCTV-17 农业农村
+CETV-1
+CETV-4
+CGTN-英语
+CGTN-纪录
+CGTN-俄语
+CGTN-法语
+CGTN-西语
+CGTN-阿语
+CCTV+1
+CCTV+2
 💰央视付费频道,#genre#
 📡卫视频道,#genre#
 ☘️地方频道,#genre#

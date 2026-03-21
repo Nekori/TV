@@ -51,6 +51,22 @@ CCTV-13 新闻,http://112.101.78.50:9901/tsfile/live/0013_1.m3u8
 CCTV-14 少儿,http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
 CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
 
+//山东省烟台市酒店 山东联通
+CCTV-1 综合,http://221.214.163.48:9989/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2 财经,http://221.214.163.48:9989/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3 综艺,http://221.214.163.48:9989/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4 国际,http://221.214.163.48:9989/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5 体育,http://221.214.163.48:9989/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6 电影,http://221.214.163.48:9989/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7 国防军事,http://221.214.163.48:9989/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8 电视剧,http://221.214.163.48:9989/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9 纪录,http://221.214.163.48:9989/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10 科教,http://221.214.163.48:9989/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11 戏曲,http://221.214.163.48:9989/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12 社会与法,http://221.214.163.48:9989/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13 新闻,http://221.214.163.48:9989/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14 少儿,http://221.214.163.48:9989/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 
 📡卫视频道,#genre#
 //网址
@@ -124,6 +140,27 @@ CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
 澳视澳门,http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 
 
+//山东省烟台市酒店 山东联通
+湖北卫视,http://221.214.163.48:9989/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+上海卫视,http://221.214.163.48:9989/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://221.214.163.48:9989/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://221.214.163.48:9989/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://221.214.163.48:9989/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://221.214.163.48:9989/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://221.214.163.48:9989/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://221.214.163.48:9989/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://221.214.163.48:9989/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://221.214.163.48:9989/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://221.214.163.48:9989/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://221.214.163.48:9989/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://221.214.163.48:9989/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://221.214.163.48:9989/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://221.214.163.48:9989/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://221.214.163.48:9989/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://221.214.163.48:9989/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://221.214.163.48:9989/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
 ☘️地方频道,#genre#
 //ottrrs.hl.chinamobile.com/PLTV
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
@@ -181,6 +218,14 @@ CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
 浙江-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 台湾-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 台湾-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
+
+//山东省烟台市酒店 山东联通
+山东综艺,http://221.214.163.48:9989/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+烟台公共,http://221.214.163.48:9989/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+经典电影,http://221.214.163.48:9989/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
+海看剧场,http://221.214.163.48:9989/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+齐鲁频道,http://221.214.163.48:9989/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+戏曲频道,http://221.214.163.48:9989/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 💻数字电视,#genre#
@@ -540,3 +585,18 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 射雕英雄传,https://live.metshop.top/huya/23824164
 射雕英雄传,http://cdn.jdshipin.com:8880/huya.php?id=23824164
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
+
+🕘️最近更新,#genre#
+爱奇艺,https://iptv-search.com/api/play/f560e7df?token=f560e7df:1774101107:1a257cd9-19a2-4600-8d2f-50b1f54618f2:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:87a9f22ba8e235371bcca68d85b89bc1af1d8dba6ec61b987f5062057c1ddd77
+澳门资讯,https://iptv-search.com/api/play/82aefe76?token=82aefe76:1774101132:fd3846f6-8866-473b-9542-e7bd462d846b:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:41d9db13608a708a90a7ae40a0d81db4c2389d80c31b500a3d2a09f133dffcb7
+八度空间,https://iptv-search.com/api/play/7d8c8109?token=7d8c8109:1774101147:79975280-c9bd-44da-bbd8-3941d656fc59:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:3e288866313c2cecc516ce78367a6e3d56e5b8bbb3a6f12210371bbba546dd67
+翡翠台,https://iptv-search.com/api/play/dbf15352?token=dbf15352:1774101172:93703f94-d592-42f1-9c34-b4a416ea18ac:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:6498d6fd2619c7f0ac1154c875b6871796ddb10da65d285e02610f3baf5835bc
+凤凰香港,https://iptv-search.com/api/play/358c68f9?token=358c68f9:1774101210:acf6264c-8923-444c-9103-65ee01f96533:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:b5bf6f64ffc7d881fc760f56c525f4a8153c29fb332ce9943e99809ce02c5cfa
+凤凰中文,https://iptv-search.com/api/play/2507d456?token=2507d456:1774101206:7c317088-76cc-4fad-806e-4ba5ca6fbc06:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:807ad2eb79c45fc74a7f38ca793ff4d5b7b8cb64f2d412d4cf427a6f0c642721
+凤凰资讯,https://iptv-search.com/api/play/b494d83e?token=b494d83e:1774101216:7b0c54d7-b8b8-4d95-acb0-4a702fbd4441:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:c24a08457217e86d25506c2d4d1575119d732bed5a9d8c9d2f5084b474c6709b
+龙华电影,https://iptv-search.com/api/play/eaf7714a?token=eaf7714a:1774101301:2cc218b8-72e4-4f56-ba49-83ee7338fe37:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:1d67023747a409e40e399c0046f30b1514bf76213a8185ac957be8a320019795
+龙华经典,https://iptv-search.com/api/play/2047f705?token=2047f705:1774101312:a0b64dc1-0c86-4b5d-ad83-4ca13231165a:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:e17bfcb9effc6d6968859b523912d3bbef690cdfd9f15639b2a2f5ac718c8c16
+龙华卡通,https://iptv-search.com/api/play/a6be7078?token=a6be7078:1774101315:78fe60be-7320-4bd8-aeeb-14fe9a97e472:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:74aa4bcef22aafd7a2fe603b7d7db3fce0c0fdac3f76579f83cb386f93e893dd
+龙华日韩,https://iptv-search.com/api/play/cc17a6f5?token=cc17a6f5:1774101319:a132c0bb-11f4-4199-a000-5e585bf725a3:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:31b22752ebdd39c49bd6c1ff84ec1029383aa07161fde522f19cf835540679c1
+龙华戏剧,https://iptv-search.com/api/play/8c582e16?token=8c582e16:1774101265:b0ede404-22d8-436c-92c9-5811ffd41e20:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:07464f3168bbe6449b31b4707c10827882886bec788372355b2203fcffef2d01
+明珠台,https://iptv-search.com/api/play/47614140?token=47614140:1774101278:f65ee659-1d41-4644-8a00-1e5f27d0090e:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:3a692a8ee7ffb1b79233f1168cfe0f89a173ac4e72d2990c7e10f209558df1df
