@@ -163,8 +163,6 @@ CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txip
 
 ☘️地方频道,#genre#
 //ottrrs.hl.chinamobile.com/PLTV
-黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 江苏-优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 北京-卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 上海-哈哈炫动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
@@ -180,15 +178,23 @@ CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txip
 
 
 //网页
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-吉林四平-新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 黑龙江-文体,https://idclive.hljtv.com:4430/live/hljwy_hd.m3u8
 黑龙江-都市,https://idclive.hljtv.com:4430/live/dushi_hd.m3u8
 黑龙江-新闻法制,https://idclive.hljtv.com:4430/live/hljxw_hd.m3u8
 黑龙江-影视,https://idclive.hljtv.com:4430/live/hljys_hd.m3u8
 黑龙江-农业·科教,https://idclive.hljtv.com:4430/live/hljgg_hd.m3u8
 黑龙江-少儿,https://idclive.hljtv.com:4430/live/hljse_hd.m3u8
+苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+浙江嵊州-新闻综合,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+浙江-钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江-经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江-教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江-民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江-新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江-少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江-国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+延边2台,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 山东卫视,https://livealone302.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
 山东-齐鲁频道,https://livealone302.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
 山东-体育休闲,https://livealone302.iqilu.com/iqilu/typdhjOF03kn.m3u8
@@ -208,14 +214,6 @@ CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txip
 河北-三佳购物,http://tv.pull.hebtv.com/zhibo/sanjiagouwu.m3u8?t=2510710360&k=13d8a0c69ef0817e26d7e9ce7304701e
 香港-環球电视台,https://epg.pw/stream/2fe10d6406f74f21bd9e99d173a0b225c16b8a67d3aec20056a0c80ca0bcd0d7.m3u8
 广东-南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-浙江-钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江-经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江-教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江-民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江-新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江-少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江-国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 台湾-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&tsum=513a9dcb42fa8b98e1792d513dd3e2ee
 台湾-TVBS新闻台,http://198.16.100.90:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
 
@@ -233,6 +231,8 @@ CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txip
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 
 //ottrrs.hl.chinamobile.com
+黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+黑莓动画,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 NewTV超级电视剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
 NewTV超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
@@ -494,67 +494,6 @@ BBC Radio 4 Extra,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio
 BBC Radio 5 Live,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio=320000.m3u8
 BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio=320000.m3u8
 
-歌手2018,#genre#
-1、2018.01.12,https://vip.lz-cdn11.com/20220410/1135_d5ea6921/1200k/hls/mixed.m3u8
-2、2018.01.19,https://vip.lz-cdn10.com/20220408/1008_87a1a9f1/1200k/hls/mixed.m3u8
-3、2018.01.26,https://vip.lz-cdn10.com/20220408/1009_a76edfa1/1200k/hls/mixed.m3u8
-4、2018.02.02,https://vip.lz-cdn10.com/20220408/1010_e3496076/1200k/hls/mixed.m3u8
-5、2018.02.09,https://vip.lz-cdn10.com/20220408/1011_2eae413b/1200k/hls/mixed.m3u8
-6、2018.02.16,https://vip.lz-cdn10.com/20220408/1013_95d6f0e3/1200k/hls/mixed.m3u8
-7、2018.02.23,https://vip.lz-cdn10.com/20220408/1015_426db6f6/1200k/hls/mixed.m3u8
-8、2018.03.09,https://vip.lz-cdn10.com/20220408/1016_2d9df722/1200k/hls/mixed.m3u8
-9、2018.03.16,https://vip.lz-cdn10.com/20220408/1018_b360c59f/1200k/hls/mixed.m3u8
-10、2018.03.23,https://vip.lz-cdn11.com/20220410/1136_e83040e5/1200k/hls/mixed.m3u8
-11、2018.03.30,https://vip.lz-cdn10.com/20220408/1019_fee794a0/1200k/hls/mixed.m3u8
-12、2018.04.06,https://vip.lz-cdn10.com/20220408/1020_325fa202/1200k/hls/mixed.m3u8
-13、2018.04.13,https://vip.lz-cdn10.com/20220408/1021_21487971/1200k/hls/mixed.m3u8
-
-
-历年春晚,#genre#
-春晚1983,http://txmov2.a.kwimgs.com/bs3/video-hls/5207287136834522947_hlshd15.m3u8
-春晚1984,https://txmov2.a.kwimgs.com/bs3/video-hls/5229242184269609742_hlshd15.m3u8
-春晚1985,http://txmov2.a.kwimgs.com/bs3/video-hls/5227271857652377954_hlshd15.m3u8
-春晚1986,https://txmov2.a.kwimgs.com/bs3/video-hls/5231493982164619599_hlshd15.m3u8
-春晚1987,https://txmov2.a.kwimgs.com/bs3/video-hls/5195746663405928031_hlsb.m3u8
-春晚1988,https://txmov2.a.kwimgs.com/bs3/video-hls/5216575810935394655_hlsb.m3u8
-春晚1989,https://txmov2.a.kwimgs.com/bs3/video-hls/5194620763762726260_hlsb.m3u8
-春晚1991,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664837540712798_hlshd15.m3u8
-春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-春晚1996,https://txmov2.a.kwimgs.com/bs3/video-hls/5202783562064785590_hlshd15.m3u8
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚1998,https://txmov2.a.kwimgs.com/bs3/video-hls/5225864507896315430_hlshd15.m3u8
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-春晚2000,https://txmov2.a.kwimgs.com/bs3/video-hls/5216294359327079321_hlshd15.m3u8
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-春晚2002,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700858599864364_hlshd15.m3u8
-春晚2003,https://txmov2.a.kwimgs.com/bs3/video-hls/5232338436280256836_hlshd15.m3u8
-春晚2004,https://txmov2.a.kwimgs.com/bs3/video-hls/5223894184413450769_hlshd15.m3u8
-春晚2005,https://txmov2.a.kwimgs.com/bs3/video-hls/5254012008863954469_hlshd15.m3u8
-春晚2006,https://txmov2.a.kwimgs.com/bs3/video-hls/5194339310474320155_hlshd15.m3u8
-春晚2007,https://txmov2.a.kwimgs.com/bs3/video-hls/5194902262344826321_hlshd15.m3u8
-春晚2008,https://txmov2.a.kwimgs.com/bs3/video-hls/5210946337266019890_hlshd15.m3u8
-春晚2009,https://txmov2.a.kwimgs.com/bs3/video-hls/5214042558858339330_hlshd15.m3u8
-春晚2010,https://txmov2.a.kwimgs.com/bs3/video-hls/5210664862006975841_hlshd15.m3u8
-春晚2011,https://txmov2.a.kwimgs.com/bs3/video-hls/5243597434070590481_hlshd15.m3u8
-春晚2012,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953534755647343_hlshd15.m3u8
-春晚2013,https://txmov2.a.kwimgs.com/bs3/video-hls/5241627109089548390_hlshd15.m3u8
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-春晚2015,https://txmov2.a.kwimgs.com/bs3/video-hls/5248101009010430183_hlshd15.m3u8
-春晚2016,https://txmov2.a.kwimgs.com/bs3/video-hls/5238530884094441260_hlshd15.m3u8
-春晚2017,https://txmov2.a.kwimgs.com/bs3/video-hls/5191524564569524830_hlshd15.m3u8
-春晚2018,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
-春晚2020,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-春晚2021,https://txmov2.a.kwimgs.com/bs3/video-hls/5255700831151909807_hlshd15.m3u8
-春晚2022,https://txmov2.a.kwimgs.com/bs3/video-hls/5224457109297710655_hlshd15.m3u8
-春晚2023网络,https://vod12.xmyysw.com/20230115/0WtBoE23/index.m3u8
-春晚2023总台,https://vod12.xmyysw.com/20230122/JgWBWCQH/index.m3u8
-
-🎥电影,#genre#
-孝子贤孙伺候着 陈佩斯,https://vip.lzcdn2.com/20220509/5970_4b05aec9/1200k/hls/mixed.m3u8
 
 🏛经典剧场,#genre#
 笑傲江湖,https://live.metshop.top/huya/26355790
@@ -587,16 +526,18 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 
 🕘️最近更新,#genre#
-爱奇艺,https://iptv-search.com/api/play/f560e7df?token=f560e7df:1774101107:1a257cd9-19a2-4600-8d2f-50b1f54618f2:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:87a9f22ba8e235371bcca68d85b89bc1af1d8dba6ec61b987f5062057c1ddd77
-澳门资讯,https://iptv-search.com/api/play/82aefe76?token=82aefe76:1774101132:fd3846f6-8866-473b-9542-e7bd462d846b:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:41d9db13608a708a90a7ae40a0d81db4c2389d80c31b500a3d2a09f133dffcb7
-八度空间,https://iptv-search.com/api/play/7d8c8109?token=7d8c8109:1774101147:79975280-c9bd-44da-bbd8-3941d656fc59:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:3e288866313c2cecc516ce78367a6e3d56e5b8bbb3a6f12210371bbba546dd67
-翡翠台,https://iptv-search.com/api/play/dbf15352?token=dbf15352:1774101172:93703f94-d592-42f1-9c34-b4a416ea18ac:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:6498d6fd2619c7f0ac1154c875b6871796ddb10da65d285e02610f3baf5835bc
-凤凰香港,https://iptv-search.com/api/play/358c68f9?token=358c68f9:1774101210:acf6264c-8923-444c-9103-65ee01f96533:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:b5bf6f64ffc7d881fc760f56c525f4a8153c29fb332ce9943e99809ce02c5cfa
-凤凰中文,https://iptv-search.com/api/play/2507d456?token=2507d456:1774101206:7c317088-76cc-4fad-806e-4ba5ca6fbc06:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:807ad2eb79c45fc74a7f38ca793ff4d5b7b8cb64f2d412d4cf427a6f0c642721
-凤凰资讯,https://iptv-search.com/api/play/b494d83e?token=b494d83e:1774101216:7b0c54d7-b8b8-4d95-acb0-4a702fbd4441:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:c24a08457217e86d25506c2d4d1575119d732bed5a9d8c9d2f5084b474c6709b
-龙华电影,https://iptv-search.com/api/play/eaf7714a?token=eaf7714a:1774101301:2cc218b8-72e4-4f56-ba49-83ee7338fe37:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:1d67023747a409e40e399c0046f30b1514bf76213a8185ac957be8a320019795
-龙华经典,https://iptv-search.com/api/play/2047f705?token=2047f705:1774101312:a0b64dc1-0c86-4b5d-ad83-4ca13231165a:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:e17bfcb9effc6d6968859b523912d3bbef690cdfd9f15639b2a2f5ac718c8c16
-龙华卡通,https://iptv-search.com/api/play/a6be7078?token=a6be7078:1774101315:78fe60be-7320-4bd8-aeeb-14fe9a97e472:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:74aa4bcef22aafd7a2fe603b7d7db3fce0c0fdac3f76579f83cb386f93e893dd
-龙华日韩,https://iptv-search.com/api/play/cc17a6f5?token=cc17a6f5:1774101319:a132c0bb-11f4-4199-a000-5e585bf725a3:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:31b22752ebdd39c49bd6c1ff84ec1029383aa07161fde522f19cf835540679c1
-龙华戏剧,https://iptv-search.com/api/play/8c582e16?token=8c582e16:1774101265:b0ede404-22d8-436c-92c9-5811ffd41e20:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:07464f3168bbe6449b31b4707c10827882886bec788372355b2203fcffef2d01
-明珠台,https://iptv-search.com/api/play/47614140?token=47614140:1774101278:f65ee659-1d41-4644-8a00-1e5f27d0090e:e70c75cd425d3bdb350e2ad9e061ede7ce8a4757b977b0b2259dcdf7e3033649:3a692a8ee7ffb1b79233f1168cfe0f89a173ac4e72d2990c7e10f209558df1df
+爱奇艺,https://iptv-search.com/play/mn1kr5h4e3cxkx7j/f560e7df
+澳门资讯,https://iptv-search.com/play/mn1ks8a1cz960mkq/82aefe76
+八度空间,https://iptv-search.com/play/mn1ksfd02cmazhxz/7d8c8109
+翡翠台,https://iptv-search.com/play/mn1ksmz7wpdio2n7/dbf15352
+凤凰香港,https://iptv-search.com/play/mn1kst2aw4wa11jl/358c68f9
+凤凰中文,https://iptv-search.com/play/mn1ksy8se5wz18tc/2507d456
+凤凰资讯,https://iptv-search.com/play/mn1kt2ocja91ra63/b494d83e
+华视,https://iptv-search.com/play/mn1kt8195o2eskc2/d61be5f3
+龙华电影,https://iptv-search.com/play/mn1ktmopf60du0vm/eaf7714a
+龙华经典,https://iptv-search.com/play/mn1ktrrif22qiflx/2047f705
+龙华卡通,https://iptv-search.com/play/mn1ktxt4azq5yc77/a6be7078
+龙华日韩,https://iptv-search.com/play/mn1ku24nvn2ft0ms/cc17a6f5
+龙华戏剧,https://iptv-search.com/play/mn1ku70tuf6850u6/8c582e16
+明珠台,https://iptv-search.com/play/mn1kuz03xare8nyp/4399f43d
+面包台,https://iptv-search.com/play/mn1kueyqyca1b159/cfe637d2
