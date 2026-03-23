@@ -18,22 +18,6 @@ CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/ind
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
-CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
-
-
-//网页其他
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
-CGTN-英语,https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
-CGTN-纪录,https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
-CGTN-俄语,https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
-CGTN-法语,https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
-CGTN-西语,https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
-CGTN-阿语,https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
-CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
-CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
 
 //黑龙江电信 酒店源 112.101.78.50:9901/tsfile
@@ -49,7 +33,7 @@ CCTV-9 纪录,http://112.101.78.50:9901/tsfile/live/0009_1.m3u8
 CCTV-10 科教,http://112.101.78.50:9901/tsfile/live/0010_1.m3u8
 CCTV-13 新闻,http://112.101.78.50:9901/tsfile/live/0013_1.m3u8
 CCTV-14 少儿,http://112.101.78.50:9901/tsfile/live/0014_1.m3u8
-CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
+
 
 //山东省烟台市酒店 山东联通
 CCTV-1 综合,http://221.214.163.48:9989/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -67,6 +51,34 @@ CCTV-12 社会与法,http://221.214.163.48:9989/tsfile/live/0012_1.m3u8?key=txip
 CCTV-13 新闻,http://221.214.163.48:9989/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14 少儿,http://221.214.163.48:9989/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+📺︎央视其它频道,#genre#
+//PLTV ottrrs.hl.chinamobile.com/PLTV
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8
+CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+
+//黑龙江电信 酒店源 112.101.78.50:9901/tsfile
+CETV-1,http://112.101.78.50:9901/tsfile/live/1003_1.m3u8
+
+//iptv-search.com
+老故事,https://iptv-search.com/play/mn348t6faak6d274/ef117c47
+央视台球,https://iptv-search.com/play/mn34c1t64cyahf9c/8dbf1fcb
+CHC动作电影,https://iptv-search.com/play/mn34eycp44xpnnlv/1944de78
+CHC家庭影院,https://iptv-search.com/play/mn34fp9poek8j1sg/e3e0c1cf
+CHC影迷电影,https://iptv-search.com/play/mn34g15sfb0rwzzn/0f3a4e38
+
+
+//网页其他
+CGTN-英语,https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
+CGTN-纪录,https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
+CGTN-俄语,https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
+CGTN-法语,https://epg.pw/stream/cf44a2785c7168d1328f507a814e036ac817c9c7890dfe0e909eb383609ebcc6.m3u8
+CGTN-西语,https://epg.pw/stream/0f61bd806b866f29393a7136164cca9cbbb33ff8164860d21d39a52dfb54e397.m3u8
+CGTN-阿语,https://epg.pw/stream/06c5a5053c524b666355da3903574c3f4f9d3c26808c38ef3f0478870ef8f8b4.m3u8
+CCTV+1,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+CCTV+2,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
 📡卫视频道,#genre#
 //网址
@@ -159,6 +171,12 @@ CCTV-5+ 体育赛事,http://221.214.163.48:9989/tsfile/live/0016_1.m3u8?key=txip
 河北卫视,http://221.214.163.48:9989/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 四川卫视,http://221.214.163.48:9989/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://221.214.163.48:9989/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+//iptv-search.com
+大湾区卫视,https://iptv-search.com/play/mn344kbf9x2ebpfk/82698125
+三沙卫视,https://iptv-search.com/play/mn34akjzpidao7sm/e546907e
+农林卫视,https://iptv-search.com/play/mn34dajcg9w7egb2/e0acbaaf
 
 
 ☘️地方频道,#genre#
@@ -526,6 +544,7 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 射雕英雄传,https://live.ottiptv.cc/huya/23824164
 
 🕘️最近更新,#genre#
+//iptv-search.com
 爱奇艺,https://iptv-search.com/play/mn1kr5h4e3cxkx7j/f560e7df
 澳门资讯,https://iptv-search.com/play/mn1ks8a1cz960mkq/82aefe76
 八度空间,https://iptv-search.com/play/mn1ksfd02cmazhxz/7d8c8109
@@ -541,3 +560,4 @@ BBC Radio 6 Music,http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_6musi
 龙华戏剧,https://iptv-search.com/play/mn1ku70tuf6850u6/8c582e16
 明珠台,https://iptv-search.com/play/mn1kuz03xare8nyp/4399f43d
 面包台,https://iptv-search.com/play/mn1kueyqyca1b159/cfe637d2
+TVB亚洲武侠,https://iptv-search.com/play/mn33x5hkve7sfelj/9edfc54c

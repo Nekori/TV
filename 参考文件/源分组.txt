@@ -18,6 +18,7 @@ CCTV-14 少儿
 CCTV-15 音乐
 CCTV-16 奥林匹克
 CCTV-17 农业农村
+📺︎央视其它频道,#genre#
 CETV-1
 CETV-4
 CGTN-英语
@@ -28,7 +29,6 @@ CGTN-西语
 CGTN-阿语
 CCTV+1
 CCTV+2
-💰央视付费频道,#genre#
 📡卫视频道,#genre#
 ☘️地方频道,#genre#
 🌊港·澳·台,#genre#
