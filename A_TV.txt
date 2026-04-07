@@ -275,8 +275,17 @@ NewTV精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/
 
 
 🎥直播,#genre#
+//虎牙
+虎牙-武林外传,https://isus.cc/php/huya.php?id=30080141
+虎牙-周星星,https://isus.cc/php/huya.php?id=11342412
+虎牙-地下交通站,https://isus.cc/php/huya.php?id=11342433
+虎牙-经典喜剧,https://isus.cc/php/huya.php?id=30682679
+虎牙-柯南,https://isus.cc/php/huya.php?id=30080148
+虎牙-赵本山宋小宝,https://isus.cc/php/huya.php?id=31142461
+虎牙-林正英,https://isus.cc/php/huya.php?id=30439645
 //B站
 B站-央视网,https://d1--cn-gotcha204-1.bilivideo.com/live-bvc/274660/live_222103174_4331333_bluray/index.m3u8
+B站-牢A,https://d1--cn-gotcha209.bilivideo.com/live-bvc/489908/live_1904418556_bs_64669_4000/index.m3u8
 B站-西宁野生动物园,https://c1--cn-gotcha208.bilivideo.com/live-bvc/144792/live_525328268_73331206_2500/index.m3u8
 B站-西宁野生动物园,https://cn-jlcc-cu-03-02.bilivideo.com/live-bvc/440333/live_525328268_73331206_2500/index.m3u8
 B站-你的影月月 游戏,https://cn-sdqd-cu-01-09.bilivideo.com/live-bvc/345365/live_431073645_7111750_4000/index.m3u8
@@ -449,7 +458,7 @@ Travelxp,https://i.mjh.nz/SamsungTVPlus/ATBA1000005P4.m3u8
 明珠台,https://iptv-search.com/play/mn1kuz03xare8nyp/4399f43d
 面包台,https://iptv-search.com/play/mn1kueyqyca1b159/cfe637d2
 TVB亚洲武侠,https://iptv-search.com/play/mn33x5hkve7sfelj/9edfc54c
-
+DreamWorks梦工厂动画,https://iptv-search.com/play/mnomwxhqor94ugca/39495a70
 
 📻广播电台,#genre#
 动感音乐台,http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
