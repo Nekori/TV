@@ -36,11 +36,9 @@ CCTV+2
 💻数字电视,#genre#
 🎥直播,#genre#
 🌏国际电视,#genre#
-📻广播电台,#genre#
-歌手2018,#genre#
-历年春晚,#genre#
 🏀体育频道,#genre#
 🪁动画频道,#genre#
 🎮游戏频道,#genre#
 🎵音乐频道,#genre#
 🏛经典剧场,#genre#
+📻广播电台,#genre#
